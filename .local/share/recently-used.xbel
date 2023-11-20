@@ -1,0 +1,1067 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///etc/default.conf" added="2023-11-18T21:46:31.247202Z" modified="2023-11-18T21:46:31.247215Z" visited="2023-11-18T21:46:31.247206Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-18T21:46:31.247210Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/nord-background" added="2023-11-18T22:29:35.353797Z" modified="2023-11-18T22:29:35.353810Z" visited="2023-11-18T22:29:35.353801Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-18T22:29:35.353805Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/nord-background/ign_city.png" added="2023-11-18T22:29:58.003082Z" modified="2023-11-18T22:29:58.003102Z" visited="2023-11-18T22:29:58.003088Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-18T22:29:58.003093Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/nord-background/ign_cityRainOther.png" added="2023-11-18T22:30:48.907956Z" modified="2023-11-18T22:30:48.907967Z" visited="2023-11-18T22:30:48.907959Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-18T22:30:48.907963Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/nord-background/ign_cityRain.png" added="2023-11-18T22:30:53.505807Z" modified="2023-11-18T22:30:53.505818Z" visited="2023-11-18T22:30:53.505811Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-18T22:30:53.505814Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/nord-background/ign_astronaut.png" added="2023-11-18T22:30:57.807929Z" modified="2023-11-18T22:30:57.807940Z" visited="2023-11-18T22:30:57.807933Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-18T22:30:57.807936Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge" added="2023-11-18T22:35:48.267146Z" modified="2023-11-19T18:37:51.663814Z" visited="2023-11-18T22:35:48.267152Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T18:37:51.663808Z" count="25"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/GitHub" added="2023-11-19T01:46:12.830650Z" modified="2023-11-20T01:43:56.838789Z" visited="2023-11-19T01:46:12.830654Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-20T01:43:56.838785Z" count="16"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/GitHub/nord-background" added="2023-11-19T01:46:14.479322Z" modified="2023-11-19T15:16:45.056567Z" visited="2023-11-19T01:46:14.479327Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T15:16:45.056563Z" count="3"/>
+          <bookmark:application name="github-desktop" exec="&apos;github-desktop %u&apos;" modified="2023-11-19T14:36:52.608967Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/GitHub/nord-background/0kvzhru1ncua1.jpg" added="2023-11-19T01:46:18.028525Z" modified="2023-11-19T01:46:40.654361Z" visited="2023-11-19T01:46:18.028529Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T01:46:40.654356Z" count="2"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2023-11-19T01:46:23.669430Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/GitHub/nord-background/1r1kk9qi00961.png" added="2023-11-19T01:46:48.597648Z" modified="2023-11-19T01:47:02.791877Z" visited="2023-11-19T01:46:48.597652Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T01:47:02.791872Z" count="2"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2023-11-19T01:46:50.710649Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/GitHub/nord-background/3xsraffkwi1a1.png" added="2023-11-19T01:47:07.802857Z" modified="2023-11-19T01:50:14.364256Z" visited="2023-11-19T01:47:07.802870Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T01:50:14.364249Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/GitHub/nord-background/4w7e9vu1ncua1.jpg" added="2023-11-19T01:47:10.528704Z" modified="2023-11-19T01:50:19.376383Z" visited="2023-11-19T01:47:10.528708Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T01:50:19.376378Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/GitHub/nord-background/10.png" added="2023-11-19T01:47:16.190363Z" modified="2023-11-19T01:47:16.190373Z" visited="2023-11-19T01:47:16.190366Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T01:47:16.190369Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/GitHub/nord-background/16.png" added="2023-11-19T01:47:20.917748Z" modified="2023-11-19T01:47:20.917759Z" visited="2023-11-19T01:47:20.917751Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T01:47:20.917755Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/tmp.png" added="2023-11-19T01:47:30.569763Z" modified="2023-11-20T01:18:55.837031Z" visited="2023-11-19T01:47:30.569767Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T01:47:30.569771Z" count="1"/>
+          <bookmark:application name="discord" exec="&apos;discord %u&apos;" modified="2023-11-20T01:18:55.837026Z" count="14"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/GitHub/wallpapers" added="2023-11-19T01:47:50.781599Z" modified="2023-11-19T17:02:55.538561Z" visited="2023-11-19T01:47:50.781603Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T17:02:55.538556Z" count="7"/>
+          <bookmark:application name="github-desktop" exec="&apos;github-desktop %u&apos;" modified="2023-11-19T17:00:52.759294Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/GitHub/nord-background/54.png" added="2023-11-19T01:50:25.824335Z" modified="2023-11-19T01:50:25.824349Z" visited="2023-11-19T01:50:25.824339Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T01:50:25.824343Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/GitHub/nord-background/73.png" added="2023-11-19T01:50:28.272676Z" modified="2023-11-19T01:50:28.272687Z" visited="2023-11-19T01:50:28.272680Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T01:50:28.272684Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/GitHub/nord-background/earth-in-space.png" added="2023-11-19T01:50:39.705383Z" modified="2023-11-19T01:50:39.705398Z" visited="2023-11-19T01:50:39.705388Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T01:50:39.705392Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/GitHub/nord-background/dsfshedsfgg.jpg" added="2023-11-19T01:50:42.121929Z" modified="2023-11-19T01:50:42.121941Z" visited="2023-11-19T01:50:42.121932Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T01:50:42.121936Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/GitHub/nord-background/container_ship.png" added="2023-11-19T01:50:45.785556Z" modified="2023-11-19T01:50:45.785577Z" visited="2023-11-19T01:50:45.785560Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T01:50:45.785573Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/GitHub/nord-background/ign-76543.png" added="2023-11-19T01:50:47.938928Z" modified="2023-11-19T01:50:47.938943Z" visited="2023-11-19T01:50:47.938932Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T01:50:47.938936Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/GitHub/nord-background/ign_astronaut.png" added="2023-11-19T01:50:49.902751Z" modified="2023-11-19T01:50:49.902762Z" visited="2023-11-19T01:50:49.902754Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T01:50:49.902758Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/GitHub/nord-background/ign_beyondHillAndDale.jpg" added="2023-11-19T01:50:52.789690Z" modified="2023-11-19T01:50:52.789705Z" visited="2023-11-19T01:50:52.789694Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T01:50:52.789699Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/GitHub/nord-background/ign_bratislava.png" added="2023-11-19T01:50:54.803194Z" modified="2023-11-19T01:50:54.803209Z" visited="2023-11-19T01:50:54.803198Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T01:50:54.803203Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/GitHub/nord-background/ign_car.png" added="2023-11-19T01:50:56.943029Z" modified="2023-11-19T01:50:56.943039Z" visited="2023-11-19T01:50:56.943032Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T01:50:56.943035Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/GitHub/nord-background/ign_city.png" added="2023-11-19T01:50:59.620015Z" modified="2023-11-19T01:50:59.620029Z" visited="2023-11-19T01:50:59.620019Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T01:50:59.620024Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/GitHub/nord-background/ign_cityRain.png" added="2023-11-19T01:51:01.851292Z" modified="2023-11-19T01:51:01.851306Z" visited="2023-11-19T01:51:01.851296Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T01:51:01.851300Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/GitHub/nord-background/ign_cityRainOther.png" added="2023-11-19T01:51:04.348669Z" modified="2023-11-19T01:51:04.348679Z" visited="2023-11-19T01:51:04.348672Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T01:51:04.348675Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/GitHub/nord-background/ign_colorful.png" added="2023-11-19T01:51:06.413569Z" modified="2023-11-19T01:51:06.413584Z" visited="2023-11-19T01:51:06.413574Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T01:51:06.413578Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/GitHub/nord-background/ign_desert.png" added="2023-11-19T01:51:08.551881Z" modified="2023-11-19T01:51:08.551893Z" visited="2023-11-19T01:51:08.551885Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T01:51:08.551889Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/GitHub/nord-background/ign_dudeOnBuilding.png" added="2023-11-19T01:51:10.634193Z" modified="2023-11-19T01:51:10.634204Z" visited="2023-11-19T01:51:10.634196Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T01:51:10.634199Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/GitHub/nord-background/ign_dudeOnBuilding2.png" added="2023-11-19T01:51:13.572064Z" modified="2023-11-19T01:51:13.572075Z" visited="2023-11-19T01:51:13.572067Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T01:51:13.572071Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/GitHub/nord-background/ign_dudeOnBuilding3.png" added="2023-11-19T01:51:35.983079Z" modified="2023-11-19T01:51:35.983093Z" visited="2023-11-19T01:51:35.983083Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T01:51:35.983088Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/bedrock-linux-0.7.29-x86_64.sh" added="2023-11-19T04:41:16.424011Z" modified="2023-11-19T04:41:16.424022Z" visited="2023-11-19T04:41:16.424014Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="thorium-browser" exec="&apos;thorium-browser %u&apos;" modified="2023-11-19T04:41:16.424018Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/GitHub/dots-hyprland" added="2023-11-19T14:36:16.436943Z" modified="2023-11-19T14:36:16.436953Z" visited="2023-11-19T14:36:16.436947Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="github-desktop" exec="&apos;github-desktop %u&apos;" modified="2023-11-19T14:36:16.436949Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/GitHub/configs" added="2023-11-19T14:36:37.173915Z" modified="2023-11-19T14:36:37.173925Z" visited="2023-11-19T14:36:37.173917Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="github-desktop" exec="&apos;github-desktop %u&apos;" modified="2023-11-19T14:36:37.173920Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/GitHub/Pimping-Windows" added="2023-11-19T15:32:36.051998Z" modified="2023-11-19T15:32:36.052009Z" visited="2023-11-19T15:32:36.052001Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T15:32:36.052005Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/GitHub/Wallpapers/images" added="2023-11-19T15:36:55.638868Z" modified="2023-11-19T15:36:55.638880Z" visited="2023-11-19T15:36:55.638872Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T15:36:55.638877Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/wallpapers" added="2023-11-19T15:41:40.312924Z" modified="2023-11-20T00:44:35.458525Z" visited="2023-11-19T15:41:40.312928Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-20T00:44:35.458520Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/wallpaper" added="2023-11-19T16:49:32.803511Z" modified="2023-11-19T16:50:29.968352Z" visited="2023-11-19T16:49:32.803515Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T16:50:29.968348Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/JPG" added="2023-11-19T16:50:19.599498Z" modified="2023-11-19T16:50:19.599508Z" visited="2023-11-19T16:50:19.599501Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T16:50:19.599504Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/PNG" added="2023-11-19T16:50:53.836990Z" modified="2023-11-19T16:50:53.837006Z" visited="2023-11-19T16:50:53.836995Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T16:50:53.837000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/GitHub/dummy" added="2023-11-19T17:00:23.545958Z" modified="2023-11-19T17:00:23.545968Z" visited="2023-11-19T17:00:23.545962Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T17:00:23.545965Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/wallpapers/PNG" added="2023-11-19T17:02:18.213735Z" modified="2023-11-19T17:02:28.017486Z" visited="2023-11-19T17:02:18.213739Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T17:02:28.017483Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/GitHub/wallpapers/PNG" added="2023-11-19T17:02:37.727586Z" modified="2023-11-19T17:02:37.727600Z" visited="2023-11-19T17:02:37.727590Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T17:02:37.727595Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/wallpapers/JPG" added="2023-11-19T17:02:45.570084Z" modified="2023-11-19T17:02:45.570095Z" visited="2023-11-19T17:02:45.570087Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T17:02:45.570091Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/GitHub/wallpapers/JPG" added="2023-11-19T17:02:56.565173Z" modified="2023-11-19T17:02:56.565185Z" visited="2023-11-19T17:02:56.565176Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T17:02:56.565180Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/wallpapers/Wallpapers" added="2023-11-19T17:19:05.856268Z" modified="2023-11-19T17:19:05.856280Z" visited="2023-11-19T17:19:05.856272Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T17:19:05.856276Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/wallpapers/Wallpapers/images" added="2023-11-19T17:19:06.783545Z" modified="2023-11-19T17:19:06.783556Z" visited="2023-11-19T17:19:06.783548Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T17:19:06.783552Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/wallpapers/Wallpapers/images/00311.jpg" added="2023-11-19T17:19:09.256182Z" modified="2023-11-19T17:19:09.256192Z" visited="2023-11-19T17:19:09.256185Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T17:19:09.256189Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/wallpapers/Wallpapers/images/00371.jpg" added="2023-11-19T17:19:11.977752Z" modified="2023-11-19T17:19:11.977766Z" visited="2023-11-19T17:19:11.977755Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T17:19:11.977760Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/wallpapers/Wallpapers/images/00307.jpg" added="2023-11-19T17:19:19.610613Z" modified="2023-11-19T17:19:19.610626Z" visited="2023-11-19T17:19:19.610617Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T17:19:19.610621Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/wallpapers/Wallpapers/images/00290.png" added="2023-11-19T17:19:23.304069Z" modified="2023-11-19T17:19:23.304084Z" visited="2023-11-19T17:19:23.304073Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T17:19:23.304078Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/wallpapers/Wallpapers/images/00271.png" added="2023-11-19T17:19:25.893646Z" modified="2023-11-19T17:19:25.893666Z" visited="2023-11-19T17:19:25.893649Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T17:19:25.893653Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/wallpapers/Wallpapers/images/00254.jpg" added="2023-11-19T17:19:28.314059Z" modified="2023-11-19T17:19:28.314074Z" visited="2023-11-19T17:19:28.314065Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T17:19:28.314069Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/wallpapers/Wallpapers/images/00253.jpg" added="2023-11-19T17:19:38.170515Z" modified="2023-11-19T17:19:38.170536Z" visited="2023-11-19T17:19:38.170520Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T17:19:38.170526Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/wallpapers/Wallpapers/images/00250.png" added="2023-11-19T17:19:44.759333Z" modified="2023-11-19T17:19:44.759347Z" visited="2023-11-19T17:19:44.759337Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T17:19:44.759342Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/wallpapers/Wallpapers/images/00000.png" added="2023-11-19T17:19:49.315337Z" modified="2023-11-19T17:19:49.315357Z" visited="2023-11-19T17:19:49.315341Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T17:19:49.315347Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/wallpapers/Wallpapers/images/00001.png" added="2023-11-19T17:19:52.027082Z" modified="2023-11-19T17:19:52.027093Z" visited="2023-11-19T17:19:52.027086Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T17:19:52.027090Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/wallpapers/Wallpapers/images/00002.png" added="2023-11-19T17:19:54.699387Z" modified="2023-11-19T17:20:02.520265Z" visited="2023-11-19T17:19:54.699391Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T17:20:02.520256Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/wallpapers/Wallpapers/images/00003.png" added="2023-11-19T17:19:57.546430Z" modified="2023-11-19T17:19:57.546449Z" visited="2023-11-19T17:19:57.546435Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T17:19:57.546440Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/wallpapers/Wallpapers/images/00004.png" added="2023-11-19T17:20:08.019536Z" modified="2023-11-19T17:20:08.019554Z" visited="2023-11-19T17:20:08.019540Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T17:20:08.019546Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/wallpapers/Wallpapers/images/00005.png" added="2023-11-19T17:20:11.752446Z" modified="2023-11-19T17:20:11.752459Z" visited="2023-11-19T17:20:11.752450Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T17:20:11.752454Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/wallpapers/Wallpapers/images/00006.png" added="2023-11-19T17:20:15.638285Z" modified="2023-11-19T17:20:15.638300Z" visited="2023-11-19T17:20:15.638290Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T17:20:15.638294Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/wallpapers/Wallpapers/images/00007.png" added="2023-11-19T17:20:18.808760Z" modified="2023-11-19T17:20:18.808769Z" visited="2023-11-19T17:20:18.808763Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T17:20:18.808766Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/wallpapers/Wallpapers/images/00008.png" added="2023-11-19T17:20:22.096982Z" modified="2023-11-19T17:20:22.096993Z" visited="2023-11-19T17:20:22.096986Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T17:20:22.096989Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/wallpapers/Wallpapers/images/00009.png" added="2023-11-19T17:20:25.316764Z" modified="2023-11-19T17:20:25.316779Z" visited="2023-11-19T17:20:25.316769Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T17:20:25.316773Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/GitHub/nixos-judge/home" added="2023-11-19T18:18:04.838516Z" modified="2023-11-19T18:18:04.838535Z" visited="2023-11-19T18:18:04.838522Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T18:18:04.838528Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/GitHub/OS-Package-Lists/WinServer" added="2023-11-19T18:22:04.264512Z" modified="2023-11-19T18:23:50.399833Z" visited="2023-11-19T18:22:04.264517Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T18:23:50.399829Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/GitHub/OS-Package-Lists" added="2023-11-19T18:22:29.748322Z" modified="2023-11-19T18:24:00.643819Z" visited="2023-11-19T18:22:29.748327Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T18:24:00.643810Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/GitHub/OS-Package-Lists/Win12" added="2023-11-19T18:22:31.332487Z" modified="2023-11-19T18:23:53.153543Z" visited="2023-11-19T18:22:31.332490Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T18:23:53.153538Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/GitHub/OS-Package-Lists/Win11" added="2023-11-19T18:23:55.767520Z" modified="2023-11-19T18:23:55.767533Z" visited="2023-11-19T18:23:55.767525Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T18:23:55.767528Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/GitHub/OS-Package-Lists/Win7" added="2023-11-19T18:24:02.614729Z" modified="2023-11-19T18:24:02.614743Z" visited="2023-11-19T18:24:02.614734Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T18:24:02.614738Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/GitHub/OS-Package-Lists/Ubuntu" added="2023-11-19T18:24:07.359139Z" modified="2023-11-19T18:24:07.359152Z" visited="2023-11-19T18:24:07.359144Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T18:24:07.359147Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/GitHub/OS-Package-Lists/RHEL" added="2023-11-19T18:24:12.354866Z" modified="2023-11-19T18:24:12.354889Z" visited="2023-11-19T18:24:12.354874Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T18:24:12.354880Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/GitHub/OS-Package-Lists/Nobara" added="2023-11-19T18:24:16.579098Z" modified="2023-11-19T18:24:16.579111Z" visited="2023-11-19T18:24:16.579102Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T18:24:16.579106Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/GitHub/OS-Package-Lists/NixOS" added="2023-11-19T18:24:20.584370Z" modified="2023-11-19T18:24:20.584390Z" visited="2023-11-19T18:24:20.584376Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T18:24:20.584382Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/GitHub/OS-Package-Lists/MacOS" added="2023-11-19T18:24:24.391894Z" modified="2023-11-19T18:24:24.391905Z" visited="2023-11-19T18:24:24.391898Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T18:24:24.391902Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/GitHub/OS-Package-Lists/KDE-Spins" added="2023-11-19T18:24:28.525625Z" modified="2023-11-19T18:24:28.525637Z" visited="2023-11-19T18:24:28.525628Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T18:24:28.525632Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/GitHub/OS-Package-Lists/IOS" added="2023-11-19T18:24:31.103937Z" modified="2023-11-19T18:24:31.103951Z" visited="2023-11-19T18:24:31.103942Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T18:24:31.103946Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/GitHub/OS-Package-Lists/Fedora" added="2023-11-19T18:24:34.335139Z" modified="2023-11-19T18:24:34.335153Z" visited="2023-11-19T18:24:34.335144Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T18:24:34.335148Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/GitHub/OS-Package-Lists/Debian" added="2023-11-19T18:24:39.806322Z" modified="2023-11-19T18:24:39.806339Z" visited="2023-11-19T18:24:39.806329Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T18:24:39.806333Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/GitHub/OS-Package-Lists/Arch" added="2023-11-19T18:24:42.879448Z" modified="2023-11-19T18:24:42.879461Z" visited="2023-11-19T18:24:42.879452Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T18:24:42.879456Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/GitHub/OS-Package-Lists/Android" added="2023-11-19T18:24:47.255453Z" modified="2023-11-19T18:24:47.255466Z" visited="2023-11-19T18:24:47.255457Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-19T18:24:47.255461Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/wallpapers/nord-background" added="2023-11-20T00:43:57.983034Z" modified="2023-11-20T00:44:36.545910Z" visited="2023-11-20T00:43:57.983039Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-20T00:44:36.545905Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/wallpapers/nord-background/ign-8675.png" added="2023-11-20T00:44:00.830139Z" modified="2023-11-20T00:44:00.830158Z" visited="2023-11-20T00:44:00.830144Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-20T00:44:00.830150Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/wallpapers/nord-background/yu4ylnw0h3h61.png" added="2023-11-20T00:44:04.921609Z" modified="2023-11-20T00:44:04.921628Z" visited="2023-11-20T00:44:04.921614Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-20T00:44:04.921619Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/wallpapers/nord-background/yll4wqs11gv61.png" added="2023-11-20T00:44:07.199349Z" modified="2023-11-20T00:44:07.199366Z" visited="2023-11-20T00:44:07.199354Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-20T00:44:07.199358Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/wallpapers/nord-background/xNhuyaH.jpg" added="2023-11-20T00:44:09.755809Z" modified="2023-11-20T00:44:09.755820Z" visited="2023-11-20T00:44:09.755812Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-20T00:44:09.755816Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/wallpapers/nord-background/wave-dark-nord1.png" added="2023-11-20T00:44:13.045920Z" modified="2023-11-20T00:44:13.045936Z" visited="2023-11-20T00:44:13.045925Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-20T00:44:13.045930Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/wallpapers/nord-background/wallpaperflare.com_wallpaper.jpg" added="2023-11-20T00:44:15.346124Z" modified="2023-11-20T00:44:15.346134Z" visited="2023-11-20T00:44:15.346127Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-20T00:44:15.346130Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/wallpapers/nord-background/vjv103qnzmm81.png" added="2023-11-20T00:44:17.734203Z" modified="2023-11-20T00:44:17.734218Z" visited="2023-11-20T00:44:17.734208Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-20T00:44:17.734212Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/wallpapers/nord-background/uroy13wr26s81.png" added="2023-11-20T00:44:20.494891Z" modified="2023-11-20T00:44:20.494908Z" visited="2023-11-20T00:44:20.494895Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-20T00:44:20.494900Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/wallpapers/nord-background/SBKjnxm.jpeg" added="2023-11-20T00:44:23.017885Z" modified="2023-11-20T00:44:23.017900Z" visited="2023-11-20T00:44:23.017890Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-20T00:44:23.017894Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/wallpapers/nord-background/nord_valley.png" added="2023-11-20T00:44:25.198391Z" modified="2023-11-20T00:44:25.198402Z" visited="2023-11-20T00:44:25.198394Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-20T00:44:25.198398Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/wallpapers/nord-background/nordtest1.png" added="2023-11-20T00:44:39.721051Z" modified="2023-11-20T00:44:39.721066Z" visited="2023-11-20T00:44:39.721056Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-20T00:44:39.721060Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/wallpapers/nord-background/nord_roads.png" added="2023-11-20T00:44:43.561559Z" modified="2023-11-20T00:44:43.561576Z" visited="2023-11-20T00:44:43.561564Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-20T00:44:43.561570Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/wallpapers/nord-background/nord_mountains.png" added="2023-11-20T00:44:46.856080Z" modified="2023-11-20T00:44:46.856093Z" visited="2023-11-20T00:44:46.856084Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-20T00:44:46.856088Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/wallpapers/nord-background/nord_lake.png" added="2023-11-20T00:44:49.095183Z" modified="2023-11-20T00:44:49.095197Z" visited="2023-11-20T00:44:49.095187Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-20T00:44:49.095192Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/wallpapers/nord-background/nordic-obsession.png" added="2023-11-20T00:44:51.975248Z" modified="2023-11-20T00:44:51.975263Z" visited="2023-11-20T00:44:51.975253Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-20T00:44:51.975258Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/wallpapers/nord-background/nord_design.png" added="2023-11-20T00:44:54.475192Z" modified="2023-11-20T00:44:54.475203Z" visited="2023-11-20T00:44:54.475196Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-20T00:44:54.475199Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/wallpapers/nord-background/nord_buildings.png" added="2023-11-20T00:44:56.721237Z" modified="2023-11-20T00:44:56.721253Z" visited="2023-11-20T00:44:56.721242Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-20T00:44:56.721247Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/judge/GitHub/hyprdotme" added="2023-11-20T01:44:00.326400Z" modified="2023-11-20T01:44:00.326410Z" visited="2023-11-20T01:44:00.326403Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-11-20T01:44:00.326407Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

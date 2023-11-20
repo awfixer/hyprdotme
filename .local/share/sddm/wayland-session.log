@@ -1,0 +1,2409 @@
+amdgpu: amdgpu_cs_ctx_create2 failed. (-13)
+/bin/sh: line 1: fcitx5: command not found
+discover_other_daemon: 1/bin/sh: line 1: wl-paste: command not found
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Could not resolve keysym XF86CameraAccessEnable
+> Warning:          Could not resolve keysym XF86CameraAccessDisable
+> Warning:          Could not resolve keysym XF86CameraAccessToggle
+> Warning:          Could not resolve keysym XF86NextElement
+> Warning:          Could not resolve keysym XF86PreviousElement
+> Warning:          Could not resolve keysym XF86AutopilotEngageToggle
+> Warning:          Could not resolve keysym XF86MarkWaypoint
+> Warning:          Could not resolve keysym XF86Sos
+> Warning:          Could not resolve keysym XF86NavChart
+> Warning:          Could not resolve keysym XF86FishingChart
+> Warning:          Could not resolve keysym XF86SingleRangeRadar
+> Warning:          Could not resolve keysym XF86DualRangeRadar
+> Warning:          Could not resolve keysym XF86RadarOverlay
+> Warning:          Could not resolve keysym XF86TraditionalSonar
+> Warning:          Could not resolve keysym XF86ClearvuSonar
+> Warning:          Could not resolve keysym XF86SidevuSonar
+> Warning:          Could not resolve keysym XF86NavInfo
+Errors from xkbcomp are not fatal to the X server
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+> Warning:          Could not resolve keysym XF86CameraAccessEnable
+> Warning:          Could not resolve keysym XF86CameraAccessDisable
+> Warning:          Could not resolve keysym XF86CameraAccessToggle
+> Warning:          Could not resolve keysym XF86NextElement
+> Warning:          Could not resolve keysym XF86PreviousElement
+> Warning:          Could not resolve keysym XF86AutopilotEngageToggle
+> Warning:          Could not resolve keysym XF86MarkWaypoint
+> Warning:          Could not resolve keysym XF86Sos
+> Warning:          Could not resolve keysym XF86NavChart
+> Warning:          Could not resolve keysym XF86FishingChart
+> Warning:          Could not resolve keysym XF86SingleRangeRadar
+> Warning:          Could not resolve keysym XF86DualRangeRadar
+> Warning:          Could not resolve keysym XF86RadarOverlay
+> Warning:          Could not resolve keysym XF86TraditionalSonar
+> Warning:          Could not resolve keysym XF86ClearvuSonar
+> Warning:          Could not resolve keysym XF86SidevuSonar
+> Warning:          Could not resolve keysym XF86NavInfo
+Errors from xkbcomp are not fatal to the X server
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 16:37:26.206: Error: can't assign "network-wired" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+DesktopEntryButton@file:///home/judge/.config/ags/windows/overview/overview.js:152:43
+SearchAndWindows/entry<.connections</<@file:///home/judge/.config/ags/windows/overview/overview.js:542:40
+SearchAndWindows/entry<.connections<@file:///home/judge/.config/ags/windows/overview/overview.js:540:39
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 16:37:26.278: Error: can't assign "network-wired" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+DesktopEntryButton@file:///home/judge/.config/ags/windows/overview/overview.js:152:43
+SearchAndWindows/entry<.connections</<@file:///home/judge/.config/ags/windows/overview/overview.js:542:40
+SearchAndWindows/entry<.connections<@file:///home/judge/.config/ags/windows/overview/overview.js:540:39
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+[20891:1119/163728.534087:ERROR:object_proxy.cc(623)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/portal/desktop: org.freedesktop.DBus.Error.InvalidArgs: No such interface “org.freedesktop.portal.FileChooser”
+[20891:1119/163728.534128:ERROR:select_file_dialog_linux_portal.cc(274)] Failed to read portal version property
+[20942:1119/163728.842055:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: BGRA_8888, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163728.842195:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: BGRA_8888, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163728.842259:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: BGRA_8888, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163728.842328:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: BGRA_8888, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163728.842396:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: BGRA_8888, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163728.865651:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: BGRA_8888, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163728.867247:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: BGRA_8888, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163732.049417:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: BGRA_8888, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163732.051774:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: BGRA_8888, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163732.054831:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: BGRA_8888, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163732.056951:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: BGRA_8888, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163732.058523:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: BGRA_8888, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163732.156251:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: BGRA_8888, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163732.158252:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: BGRA_8888, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163738.227139:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 1 times!
+[20942:1119/163738.227563:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 2 times!
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 16:37:40.738: Error: can't assign "network-wired" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+DesktopEntryButton@file:///home/judge/.config/ags/windows/overview/overview.js:152:43
+SearchAndWindows/entry<.connections</<@file:///home/judge/.config/ags/windows/overview/overview.js:542:40
+SearchAndWindows/entry<.connections<@file:///home/judge/.config/ags/windows/overview/overview.js:540:39
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 16:37:40.740: Error: can't assign "network-wired" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+DesktopEntryButton@file:///home/judge/.config/ags/windows/overview/overview.js:152:43
+SearchAndWindows/entry<.connections</<@file:///home/judge/.config/ags/windows/overview/overview.js:542:40
+SearchAndWindows/entry<.connections<@file:///home/judge/.config/ags/windows/overview/overview.js:540:39
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 16:37:40.741: Error: can't assign "network-wired" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+DesktopEntryButton@file:///home/judge/.config/ags/windows/overview/overview.js:152:43
+SearchAndWindows/entry<.connections</<@file:///home/judge/.config/ags/windows/overview/overview.js:542:40
+SearchAndWindows/entry<.connections<@file:///home/judge/.config/ags/windows/overview/overview.js:540:39
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+[20942:1119/163743.580632:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 3 times!
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 16:37:44.737: Error: can't assign "blueman-manager" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+AppButton@file:///home/judge/.config/ags/windows/dock/dock.js:58:35
+Taskbar/<.properties<@file:///home/judge/.config/ags/windows/dock/dock.js:117:40
+Taskbar/<.connections<@file:///home/judge/.config/ags/windows/dock/dock.js:142:42
+default/connectTo/id<@resource:///com/github/Aylur/ags/widgets/widget.js:105:65
+_onEvent@resource:///com/github/Aylur/ags/service/hyprland.js:220:26
+async*_watchSocket/<@resource:///com/github/Aylur/ags/service/hyprland.js:121:18
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 16:37:44.744: Error: can't assign "blueman-manager" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+AppButton@file:///home/judge/.config/ags/windows/dock/dock.js:58:35
+Taskbar/<.properties<@file:///home/judge/.config/ags/windows/dock/dock.js:117:40
+Taskbar/<.connections<@file:///home/judge/.config/ags/windows/dock/dock.js:142:42
+default/connectTo/id<@resource:///com/github/Aylur/ags/widgets/widget.js:105:65
+_onEvent@resource:///com/github/Aylur/ags/service/hyprland.js:220:26
+async*_watchSocket/<@resource:///com/github/Aylur/ags/service/hyprland.js:121:18
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+
+(com.github.Aylur.ags:20452): LIBDBUSMENU-GLIB-WARNING **: 16:37:45.781: Unable to replace properties on 0: Error getting properties for ID
+
+(com.github.Aylur.ags:20452): LIBDBUSMENU-GLIB-WARNING **: 16:37:46.085: Unable to replace properties on 0: Error getting properties for ID
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 648, in _set_cell_data
+    surface = self.make_device_icon(row["icon_info"], row["paired"], row["trusted"], row["blocked"])
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 265, in make_device_icon
+    target = icon_info.load_surface(window)
+             ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'load_surface'
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 648, in _set_cell_data
+    surface = self.make_device_icon(row["icon_info"], row["paired"], row["trusted"], row["blocked"])
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 265, in make_device_icon
+    target = icon_info.load_surface(window)
+             ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'load_surface'
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 648, in _set_cell_data
+    surface = self.make_device_icon(row["icon_info"], row["paired"], row["trusted"], row["blocked"])
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 265, in make_device_icon
+    target = icon_info.load_surface(window)
+             ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'load_surface'
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 648, in _set_cell_data
+    surface = self.make_device_icon(row["icon_info"], row["paired"], row["trusted"], row["blocked"])
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 265, in make_device_icon
+    target = icon_info.load_surface(window)
+             ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'load_surface'
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 648, in _set_cell_data
+    surface = self.make_device_icon(row["icon_info"], row["paired"], row["trusted"], row["blocked"])
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 265, in make_device_icon
+    target = icon_info.load_surface(window)
+             ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'load_surface'
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 648, in _set_cell_data
+    surface = self.make_device_icon(row["icon_info"], row["paired"], row["trusted"], row["blocked"])
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 265, in make_device_icon
+    target = icon_info.load_surface(window)
+             ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'load_surface'
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 648, in _set_cell_data
+    surface = self.make_device_icon(row["icon_info"], row["paired"], row["trusted"], row["blocked"])
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 265, in make_device_icon
+    target = icon_info.load_surface(window)
+             ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'load_surface'
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 648, in _set_cell_data
+    surface = self.make_device_icon(row["icon_info"], row["paired"], row["trusted"], row["blocked"])
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 265, in make_device_icon
+    target = icon_info.load_surface(window)
+             ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'load_surface'
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 648, in _set_cell_data
+    surface = self.make_device_icon(row["icon_info"], row["paired"], row["trusted"], row["blocked"])
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 265, in make_device_icon
+    target = icon_info.load_surface(window)
+             ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'load_surface'
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 648, in _set_cell_data
+    surface = self.make_device_icon(row["icon_info"], row["paired"], row["trusted"], row["blocked"])
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 265, in make_device_icon
+    target = icon_info.load_surface(window)
+             ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'load_surface'
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 648, in _set_cell_data
+    surface = self.make_device_icon(row["icon_info"], row["paired"], row["trusted"], row["blocked"])
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 265, in make_device_icon
+    target = icon_info.load_surface(window)
+             ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'load_surface'
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 648, in _set_cell_data
+    surface = self.make_device_icon(row["icon_info"], row["paired"], row["trusted"], row["blocked"])
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 265, in make_device_icon
+    target = icon_info.load_surface(window)
+             ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'load_surface'
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 648, in _set_cell_data
+    surface = self.make_device_icon(row["icon_info"], row["paired"], row["trusted"], row["blocked"])
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 265, in make_device_icon
+    target = icon_info.load_surface(window)
+             ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'load_surface'
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 648, in _set_cell_data
+    surface = self.make_device_icon(row["icon_info"], row["paired"], row["trusted"], row["blocked"])
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 265, in make_device_icon
+    target = icon_info.load_surface(window)
+             ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'load_surface'
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 648, in _set_cell_data
+    surface = self.make_device_icon(row["icon_info"], row["paired"], row["trusted"], row["blocked"])
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 265, in make_device_icon
+    target = icon_info.load_surface(window)
+             ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'load_surface'
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 648, in _set_cell_data
+    surface = self.make_device_icon(row["icon_info"], row["paired"], row["trusted"], row["blocked"])
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 265, in make_device_icon
+    target = icon_info.load_surface(window)
+             ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'load_surface'
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 648, in _set_cell_data
+    surface = self.make_device_icon(row["icon_info"], row["paired"], row["trusted"], row["blocked"])
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 265, in make_device_icon
+    target = icon_info.load_surface(window)
+             ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'load_surface'
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 648, in _set_cell_data
+    surface = self.make_device_icon(row["icon_info"], row["paired"], row["trusted"], row["blocked"])
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 265, in make_device_icon
+    target = icon_info.load_surface(window)
+             ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'load_surface'
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 648, in _set_cell_data
+    surface = self.make_device_icon(row["icon_info"], row["paired"], row["trusted"], row["blocked"])
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 265, in make_device_icon
+    target = icon_info.load_surface(window)
+             ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'load_surface'
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 648, in _set_cell_data
+    surface = self.make_device_icon(row["icon_info"], row["paired"], row["trusted"], row["blocked"])
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 265, in make_device_icon
+    target = icon_info.load_surface(window)
+             ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'load_surface'
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 648, in _set_cell_data
+    surface = self.make_device_icon(row["icon_info"], row["paired"], row["trusted"], row["blocked"])
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 265, in make_device_icon
+    target = icon_info.load_surface(window)
+             ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'load_surface'
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 648, in _set_cell_data
+    surface = self.make_device_icon(row["icon_info"], row["paired"], row["trusted"], row["blocked"])
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 265, in make_device_icon
+    target = icon_info.load_surface(window)
+             ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'load_surface'
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 648, in _set_cell_data
+    surface = self.make_device_icon(row["icon_info"], row["paired"], row["trusted"], row["blocked"])
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 265, in make_device_icon
+    target = icon_info.load_surface(window)
+             ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'load_surface'
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 648, in _set_cell_data
+    surface = self.make_device_icon(row["icon_info"], row["paired"], row["trusted"], row["blocked"])
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 265, in make_device_icon
+    target = icon_info.load_surface(window)
+             ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'load_surface'
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 648, in _set_cell_data
+    surface = self.make_device_icon(row["icon_info"], row["paired"], row["trusted"], row["blocked"])
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 265, in make_device_icon
+    target = icon_info.load_surface(window)
+             ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'load_surface'
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 648, in _set_cell_data
+    surface = self.make_device_icon(row["icon_info"], row["paired"], row["trusted"], row["blocked"])
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 265, in make_device_icon
+    target = icon_info.load_surface(window)
+             ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'load_surface'
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 648, in _set_cell_data
+    surface = self.make_device_icon(row["icon_info"], row["paired"], row["trusted"], row["blocked"])
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 265, in make_device_icon
+    target = icon_info.load_surface(window)
+             ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'load_surface'
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 648, in _set_cell_data
+    surface = self.make_device_icon(row["icon_info"], row["paired"], row["trusted"], row["blocked"])
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 265, in make_device_icon
+    target = icon_info.load_surface(window)
+             ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'load_surface'
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 648, in _set_cell_data
+    surface = self.make_device_icon(row["icon_info"], row["paired"], row["trusted"], row["blocked"])
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/blueman/gui/manager/ManagerDeviceList.py", line 265, in make_device_icon
+    target = icon_info.load_surface(window)
+             ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'load_surface'
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 16:37:53.802: Error: can't assign "system-file-manager" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+DesktopEntryButton@file:///home/judge/.config/ags/windows/overview/overview.js:152:43
+SearchAndWindows/entry<.connections</<@file:///home/judge/.config/ags/windows/overview/overview.js:542:40
+SearchAndWindows/entry<.connections<@file:///home/judge/.config/ags/windows/overview/overview.js:540:39
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 16:37:53.804: Error: can't assign "search" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+DesktopEntryButton@file:///home/judge/.config/ags/windows/overview/overview.js:152:43
+SearchAndWindows/entry<.connections</<@file:///home/judge/.config/ags/windows/overview/overview.js:542:40
+SearchAndWindows/entry<.connections<@file:///home/judge/.config/ags/windows/overview/overview.js:540:39
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 16:37:54.176: Error: can't assign "system-file-manager" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+DesktopEntryButton@file:///home/judge/.config/ags/windows/overview/overview.js:152:43
+SearchAndWindows/entry<.connections</<@file:///home/judge/.config/ags/windows/overview/overview.js:542:40
+SearchAndWindows/entry<.connections<@file:///home/judge/.config/ags/windows/overview/overview.js:540:39
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 16:37:54.178: Error: can't assign "search" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+DesktopEntryButton@file:///home/judge/.config/ags/windows/overview/overview.js:152:43
+SearchAndWindows/entry<.connections</<@file:///home/judge/.config/ags/windows/overview/overview.js:542:40
+SearchAndWindows/entry<.connections<@file:///home/judge/.config/ags/windows/overview/overview.js:540:39
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+[20942:1119/163835.903627:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RED_8, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163835.903973:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RG_88, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163835.905575:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RED_8, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163835.908136:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RG_88, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163835.908778:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RED_8, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163835.909095:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RG_88, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163835.910529:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RED_8, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163835.910855:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RG_88, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163835.912758:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RED_8, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163835.912999:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RG_88, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163835.965565:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RED_8, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163835.966104:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RG_88, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163841.298740:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RED_8, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163841.299387:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RG_88, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163858.262985:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RED_8, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163858.263239:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RG_88, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163858.270072:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RED_8, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163858.270326:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RG_88, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163858.277292:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RED_8, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163858.277800:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RG_88, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163858.278006:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RED_8, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163858.278221:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RG_88, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163858.278414:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RED_8, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163858.278594:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RG_88, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163858.278816:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RED_8, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163858.278988:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RG_88, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163858.279152:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RED_8, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163858.279285:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RG_88, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163858.279430:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RED_8, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163858.279534:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RG_88, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163858.279728:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RED_8, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163858.279878:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RG_88, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163858.280044:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RED_8, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163858.280182:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RG_88, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163858.312572:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RED_8, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163858.312889:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RG_88, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163858.313137:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RED_8, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163858.313273:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RG_88, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163858.501546:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RED_8, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163858.502016:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RG_88, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163858.502141:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RED_8, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163858.502258:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RG_88, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163858.575810:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RED_8, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163858.576113:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RG_88, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163909.836343:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RED_8, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163909.836607:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RG_88, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163909.838175:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RED_8, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163909.838472:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RG_88, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163909.840351:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RED_8, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163909.840560:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RG_88, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163909.848038:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RED_8, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163909.848310:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RG_88, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163909.848417:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RED_8, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163909.848521:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RG_88, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163909.870411:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RED_8, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163909.870738:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RG_88, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163909.875435:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RED_8, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163909.875728:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RG_88, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163910.925230:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RED_8, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163910.925524:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RG_88, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163910.958379:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RED_8, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163910.958576:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RG_88, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163910.959999:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RED_8, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163910.960194:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RG_88, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163912.585869:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RED_8, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163912.586172:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RG_88, share_between_threads: 0, gmb_type: shared_memory
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 16:39:24.545: Error: can't assign "/opt/chromium.org/thorium/thorium_shell.png" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+DesktopEntryButton@file:///home/judge/.config/ags/windows/overview/overview.js:152:43
+SearchAndWindows/entry<.connections</<@file:///home/judge/.config/ags/windows/overview/overview.js:542:40
+SearchAndWindows/entry<.connections<@file:///home/judge/.config/ags/windows/overview/overview.js:540:39
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 16:39:24.628: Error: can't assign "/opt/chromium.org/thorium/thorium_shell.png" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+DesktopEntryButton@file:///home/judge/.config/ags/windows/overview/overview.js:152:43
+SearchAndWindows/entry<.connections</<@file:///home/judge/.config/ags/windows/overview/overview.js:542:40
+SearchAndWindows/entry<.connections<@file:///home/judge/.config/ags/windows/overview/overview.js:540:39
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+[21867:21895:1119/163926.124948:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/portal/desktop: org.freedesktop.DBus.Error.InvalidArgs: No such interface “org.freedesktop.portal.FileChooser”
+[21867:21895:1119/163926.125067:ERROR:select_file_dialog_linux_portal.cc(274)] Failed to read portal version property
+[21867:21867:1119/163926.143487:ERROR:policy_logger.cc(154)] :components/enterprise/browser/controller/chrome_browser_cloud_management_controller.cc(163) Cloud management controller initialization aborted as CBCM is not enabled.
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 16:39:26.325: Error: can't assign "Thorium-browser" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+AppButton@file:///home/judge/.config/ags/windows/dock/dock.js:58:35
+Taskbar/<.properties<@file:///home/judge/.config/ags/windows/dock/dock.js:117:40
+Taskbar/<.connections<@file:///home/judge/.config/ags/windows/dock/dock.js:142:42
+default/connectTo/id<@resource:///com/github/Aylur/ags/widgets/widget.js:105:65
+_onEvent@resource:///com/github/Aylur/ags/service/hyprland.js:220:26
+async*_watchSocket/<@resource:///com/github/Aylur/ags/service/hyprland.js:121:18
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+[21867:21867:1119/163926.332486:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.portal.Settings.Read: object_path= /org/freedesktop/portal/desktop: org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[21867:21867:1119/163926.476310:ERROR:pref_model_associator.cc(150)] Failed to deserialize value of preference 'sync.demographics': Line: 1, column: 1, Unexpected token.
+[21867:21867:1119/163942.760037:ERROR:validation_errors.cc(117)] Invalid message: VALIDATION_ERROR_DESERIALIZATION_FAILED
+[21867:21867:1119/163942.760106:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface device.mojom.SensorProvider
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 16:39:46.144: Error: can't assign "Thorium-browser" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+AppButton@file:///home/judge/.config/ags/windows/dock/dock.js:58:35
+Taskbar/<.properties<@file:///home/judge/.config/ags/windows/dock/dock.js:117:40
+Taskbar/<.connections<@file:///home/judge/.config/ags/windows/dock/dock.js:142:42
+default/connectTo/id<@resource:///com/github/Aylur/ags/widgets/widget.js:105:65
+_onEvent@resource:///com/github/Aylur/ags/service/hyprland.js:220:26
+async*_watchSocket/<@resource:///com/github/Aylur/ags/service/hyprland.js:121:18
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+[21910:21910:1119/163949.078278:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 1 times!
+[20942:1119/163956.125791:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RED_8, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163956.126085:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RG_88, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163956.131485:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RED_8, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163956.132139:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RG_88, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163956.132419:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RED_8, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163956.132748:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RG_88, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163956.132836:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RED_8, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163956.132921:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RG_88, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163956.134376:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RED_8, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163956.134671:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RG_88, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163956.145185:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RED_8, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/163956.145556:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RG_88, share_between_threads: 0, gmb_type: shared_memory
+Fontconfig error: Cannot load default config file: No such file: (null)
+[20942:1119/164016.005735:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RED_8, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/164016.005948:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RG_88, share_between_threads: 0, gmb_type: shared_memory
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 16:40:55.212: Error: can't assign "Thorium-browser" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+AppButton@file:///home/judge/.config/ags/windows/dock/dock.js:58:35
+Taskbar/<.properties<@file:///home/judge/.config/ags/windows/dock/dock.js:117:40
+Taskbar/<.connections<@file:///home/judge/.config/ags/windows/dock/dock.js:142:42
+default/connectTo/id<@resource:///com/github/Aylur/ags/widgets/widget.js:105:65
+_onEvent@resource:///com/github/Aylur/ags/service/hyprland.js:220:26
+async*_watchSocket/<@resource:///com/github/Aylur/ags/service/hyprland.js:121:18
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+[21910:21910:1119/164058.415477:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 2 times!
+[20942:1119/164108.808255:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RED_8, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/164108.808584:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RG_88, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/164108.810063:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RED_8, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/164108.810738:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RG_88, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/164108.811837:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RED_8, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/164108.812193:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RG_88, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/164108.813637:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RED_8, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/164108.813934:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RG_88, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/164108.817896:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RED_8, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/164108.818252:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RG_88, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/164108.834072:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RED_8, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/164108.834620:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RG_88, share_between_threads: 0, gmb_type: shared_memory
+warn: terminal.c:1802: slave exited with signal 15 (Terminated)
+[20942:1119/164111.451289:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RED_8, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/164111.451533:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RG_88, share_between_threads: 0, gmb_type: shared_memory
+Warning: vkCreateInstance: Found no drivers!
+Warning: vkCreateInstance failed with VK_ERROR_INCOMPATIBLE_DRIVER
+    at CheckVkSuccessImpl (../../third_party/dawn/src/dawn/native/vulkan/VulkanError.cpp:88)
+    at CreateVkInstance (../../third_party/dawn/src/dawn/native/vulkan/BackendVk.cpp:458)
+    at Initialize (../../third_party/dawn/src/dawn/native/vulkan/BackendVk.cpp:344)
+    at Create (../../third_party/dawn/src/dawn/native/vulkan/BackendVk.cpp:266)
+    at operator() (../../third_party/dawn/src/dawn/native/vulkan/BackendVk.cpp:521)
+
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 16:41:31.232: Error: can't assign "Thorium-browser" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+AppButton@file:///home/judge/.config/ags/windows/dock/dock.js:58:35
+Taskbar/<.properties<@file:///home/judge/.config/ags/windows/dock/dock.js:117:40
+Taskbar/<.connections<@file:///home/judge/.config/ags/windows/dock/dock.js:142:42
+default/connectTo/id<@resource:///com/github/Aylur/ags/widgets/widget.js:105:65
+_onEvent@resource:///com/github/Aylur/ags/service/hyprland.js:220:26
+async*_watchSocket/<@resource:///com/github/Aylur/ags/service/hyprland.js:121:18
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+[21910:21910:1119/164159.747547:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 3 times!
+[20942:1119/164211.023807:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RED_8, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/164211.024272:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RG_88, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/164232.464929:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RED_8, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/164232.465372:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RG_88, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/164258.444051:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RED_8, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/164258.444397:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RG_88, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/164335.677426:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RED_8, share_between_threads: 0, gmb_type: shared_memory
+[20942:1119/164335.677865:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RG_88, share_between_threads: 0, gmb_type: shared_memory
+selection cancelled
+invalid geometry
+/home/judge/.config/ags/scripts/color_generation/switchwall.sh: line 6: cd: /home/judge/Pictures: No such file or directory
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 16:43:50.208: Error: can't assign "Thorium-browser" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+client@file:///home/judge/.config/ags/windows/overview/overview.js:283:24
+workspace/widget.update/<@file:///home/judge/.config/ags/windows/overview/overview.js:369:52
+workspace/widget.update@file:///home/judge/.config/ags/windows/overview/overview.js:369:17
+OverviewRow/<.properties</</<@file:///home/judge/.config/ags/windows/overview/overview.js:388:49
+OverviewRow/<.properties</<@file:///home/judge/.config/ags/windows/overview/overview.js:388:32
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+ThunarThumbnailer: Failed to retrieve supported types: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.thumbnails.Thumbnailer1 was not provided by any .service files
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 16:43:52.342: Error: can't assign "thunar" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+AppButton@file:///home/judge/.config/ags/windows/dock/dock.js:58:35
+Taskbar/<.properties<@file:///home/judge/.config/ags/windows/dock/dock.js:117:40
+Taskbar/<.connections<@file:///home/judge/.config/ags/windows/dock/dock.js:142:42
+default/connectTo/id<@resource:///com/github/Aylur/ags/widgets/widget.js:105:65
+_onEvent@resource:///com/github/Aylur/ags/service/hyprland.js:220:26
+async*_watchSocket/<@resource:///com/github/Aylur/ags/service/hyprland.js:121:18
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+** Message: 16:44:00.948: main.vala:445: Starting session with system profile
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 16:44:01.355: Error: can't assign "shotwell" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+AppButton@file:///home/judge/.config/ags/windows/dock/dock.js:58:35
+Taskbar/<.properties<@file:///home/judge/.config/ags/windows/dock/dock.js:117:40
+Taskbar/<.connections<@file:///home/judge/.config/ags/windows/dock/dock.js:142:42
+default/connectTo/id<@resource:///com/github/Aylur/ags/widgets/widget.js:105:65
+_onEvent@resource:///com/github/Aylur/ags/service/hyprland.js:220:26
+async*_watchSocket/<@resource:///com/github/Aylur/ags/service/hyprland.js:121:18
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+** Message: 16:44:05.014: main.vala:445: Starting session with system profile
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 16:44:05.625: Error: can't assign "shotwell" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+AppButton@file:///home/judge/.config/ags/windows/dock/dock.js:58:35
+Taskbar/<.properties<@file:///home/judge/.config/ags/windows/dock/dock.js:117:40
+Taskbar/<.connections<@file:///home/judge/.config/ags/windows/dock/dock.js:142:42
+default/connectTo/id<@resource:///com/github/Aylur/ags/widgets/widget.js:105:65
+_onEvent@resource:///com/github/Aylur/ags/service/hyprland.js:220:26
+async*_watchSocket/<@resource:///com/github/Aylur/ags/service/hyprland.js:121:18
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+** Message: 16:44:07.282: main.vala:445: Starting session with system profile
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 16:44:08.095: Error: can't assign "shotwell" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+AppButton@file:///home/judge/.config/ags/windows/dock/dock.js:58:35
+Taskbar/<.properties<@file:///home/judge/.config/ags/windows/dock/dock.js:117:40
+Taskbar/<.connections<@file:///home/judge/.config/ags/windows/dock/dock.js:142:42
+default/connectTo/id<@resource:///com/github/Aylur/ags/widgets/widget.js:105:65
+_onEvent@resource:///com/github/Aylur/ags/service/hyprland.js:220:26
+async*_watchSocket/<@resource:///com/github/Aylur/ags/service/hyprland.js:121:18
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+** Message: 16:44:09.837: main.vala:445: Starting session with system profile
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 16:44:10.094: Error: can't assign "shotwell" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+AppButton@file:///home/judge/.config/ags/windows/dock/dock.js:58:35
+Taskbar/<.properties<@file:///home/judge/.config/ags/windows/dock/dock.js:117:40
+Taskbar/<.connections<@file:///home/judge/.config/ags/windows/dock/dock.js:142:42
+default/connectTo/id<@resource:///com/github/Aylur/ags/widgets/widget.js:105:65
+_onEvent@resource:///com/github/Aylur/ags/service/hyprland.js:220:26
+async*_watchSocket/<@resource:///com/github/Aylur/ags/service/hyprland.js:121:18
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+** Message: 16:44:13.142: main.vala:445: Starting session with system profile
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 16:44:13.442: Error: can't assign "shotwell" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+AppButton@file:///home/judge/.config/ags/windows/dock/dock.js:58:35
+Taskbar/<.properties<@file:///home/judge/.config/ags/windows/dock/dock.js:117:40
+Taskbar/<.connections<@file:///home/judge/.config/ags/windows/dock/dock.js:142:42
+default/connectTo/id<@resource:///com/github/Aylur/ags/widgets/widget.js:105:65
+_onEvent@resource:///com/github/Aylur/ags/service/hyprland.js:220:26
+async*_watchSocket/<@resource:///com/github/Aylur/ags/service/hyprland.js:121:18
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+** Message: 16:44:15.432: main.vala:445: Starting session with system profile
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 16:44:15.678: Error: can't assign "shotwell" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+AppButton@file:///home/judge/.config/ags/windows/dock/dock.js:58:35
+Taskbar/<.properties<@file:///home/judge/.config/ags/windows/dock/dock.js:117:40
+Taskbar/<.connections<@file:///home/judge/.config/ags/windows/dock/dock.js:142:42
+default/connectTo/id<@resource:///com/github/Aylur/ags/widgets/widget.js:105:65
+_onEvent@resource:///com/github/Aylur/ags/service/hyprland.js:220:26
+async*_watchSocket/<@resource:///com/github/Aylur/ags/service/hyprland.js:121:18
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+** Message: 16:44:17.815: main.vala:445: Starting session with system profile
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 16:44:18.145: Error: can't assign "shotwell" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+AppButton@file:///home/judge/.config/ags/windows/dock/dock.js:58:35
+Taskbar/<.properties<@file:///home/judge/.config/ags/windows/dock/dock.js:117:40
+Taskbar/<.connections<@file:///home/judge/.config/ags/windows/dock/dock.js:142:42
+default/connectTo/id<@resource:///com/github/Aylur/ags/widgets/widget.js:105:65
+_onEvent@resource:///com/github/Aylur/ags/service/hyprland.js:220:26
+async*_watchSocket/<@resource:///com/github/Aylur/ags/service/hyprland.js:121:18
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+** Message: 16:44:20.578: main.vala:445: Starting session with system profile
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 16:44:20.888: Error: can't assign "shotwell" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+AppButton@file:///home/judge/.config/ags/windows/dock/dock.js:58:35
+Taskbar/<.properties<@file:///home/judge/.config/ags/windows/dock/dock.js:117:40
+Taskbar/<.connections<@file:///home/judge/.config/ags/windows/dock/dock.js:142:42
+default/connectTo/id<@resource:///com/github/Aylur/ags/widgets/widget.js:105:65
+_onEvent@resource:///com/github/Aylur/ags/service/hyprland.js:220:26
+async*_watchSocket/<@resource:///com/github/Aylur/ags/service/hyprland.js:121:18
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+** Message: 16:44:23.099: main.vala:445: Starting session with system profile
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 16:44:23.423: Error: can't assign "shotwell" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+AppButton@file:///home/judge/.config/ags/windows/dock/dock.js:58:35
+Taskbar/<.properties<@file:///home/judge/.config/ags/windows/dock/dock.js:117:40
+Taskbar/<.connections<@file:///home/judge/.config/ags/windows/dock/dock.js:142:42
+default/connectTo/id<@resource:///com/github/Aylur/ags/widgets/widget.js:105:65
+_onEvent@resource:///com/github/Aylur/ags/service/hyprland.js:220:26
+async*_watchSocket/<@resource:///com/github/Aylur/ags/service/hyprland.js:121:18
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+** Message: 16:44:25.281: main.vala:445: Starting session with system profile
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 16:44:25.642: Error: can't assign "shotwell" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+AppButton@file:///home/judge/.config/ags/windows/dock/dock.js:58:35
+Taskbar/<.properties<@file:///home/judge/.config/ags/windows/dock/dock.js:117:40
+Taskbar/<.connections<@file:///home/judge/.config/ags/windows/dock/dock.js:142:42
+default/connectTo/id<@resource:///com/github/Aylur/ags/widgets/widget.js:105:65
+_onEvent@resource:///com/github/Aylur/ags/service/hyprland.js:220:26
+async*_watchSocket/<@resource:///com/github/Aylur/ags/service/hyprland.js:121:18
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 16:44:26.751: Error: can't assign "Thorium-browser" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+client@file:///home/judge/.config/ags/windows/overview/overview.js:283:24
+workspace/widget.update/<@file:///home/judge/.config/ags/windows/overview/overview.js:369:52
+workspace/widget.update@file:///home/judge/.config/ags/windows/overview/overview.js:369:17
+OverviewRow/<.properties</</<@file:///home/judge/.config/ags/windows/overview/overview.js:388:49
+OverviewRow/<.properties</<@file:///home/judge/.config/ags/windows/overview/overview.js:388:32
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 16:44:26.754: Error: can't assign "thunar" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+client@file:///home/judge/.config/ags/windows/overview/overview.js:283:24
+workspace/widget.update/<@file:///home/judge/.config/ags/windows/overview/overview.js:369:52
+workspace/widget.update@file:///home/judge/.config/ags/windows/overview/overview.js:369:17
+OverviewRow/<.properties</</<@file:///home/judge/.config/ags/windows/overview/overview.js:388:49
+OverviewRow/<.properties</<@file:///home/judge/.config/ags/windows/overview/overview.js:388:32
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 16:44:26.755: Error: can't assign "shotwell" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+client@file:///home/judge/.config/ags/windows/overview/overview.js:283:24
+workspace/widget.update/<@file:///home/judge/.config/ags/windows/overview/overview.js:369:52
+workspace/widget.update@file:///home/judge/.config/ags/windows/overview/overview.js:369:17
+OverviewRow/<.properties</</<@file:///home/judge/.config/ags/windows/overview/overview.js:388:49
+OverviewRow/<.properties</<@file:///home/judge/.config/ags/windows/overview/overview.js:388:32
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 16:44:29.832: Error: can't assign "Thorium-browser" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+client@file:///home/judge/.config/ags/windows/overview/overview.js:283:24
+workspace/widget.update/<@file:///home/judge/.config/ags/windows/overview/overview.js:369:52
+workspace/widget.update@file:///home/judge/.config/ags/windows/overview/overview.js:369:17
+OverviewRow/<.properties</</<@file:///home/judge/.config/ags/windows/overview/overview.js:388:49
+OverviewRow/<.properties</<@file:///home/judge/.config/ags/windows/overview/overview.js:388:32
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+ThunarThumbnailer: Failed to retrieve supported types: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.thumbnails.Thumbnailer1 was not provided by any .service files
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 16:44:33.063: Error: can't assign "thunar" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+AppButton@file:///home/judge/.config/ags/windows/dock/dock.js:58:35
+Taskbar/<.properties<@file:///home/judge/.config/ags/windows/dock/dock.js:117:40
+Taskbar/<.connections<@file:///home/judge/.config/ags/windows/dock/dock.js:142:42
+default/connectTo/id<@resource:///com/github/Aylur/ags/widgets/widget.js:105:65
+_onEvent@resource:///com/github/Aylur/ags/service/hyprland.js:220:26
+async*_watchSocket/<@resource:///com/github/Aylur/ags/service/hyprland.js:121:18
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+** Message: 16:44:39.819: main.vala:445: Starting session with system profile
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 16:44:40.127: Error: can't assign "shotwell" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+AppButton@file:///home/judge/.config/ags/windows/dock/dock.js:58:35
+Taskbar/<.properties<@file:///home/judge/.config/ags/windows/dock/dock.js:117:40
+Taskbar/<.connections<@file:///home/judge/.config/ags/windows/dock/dock.js:142:42
+default/connectTo/id<@resource:///com/github/Aylur/ags/widgets/widget.js:105:65
+_onEvent@resource:///com/github/Aylur/ags/service/hyprland.js:220:26
+async*_watchSocket/<@resource:///com/github/Aylur/ags/service/hyprland.js:121:18
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+** Message: 16:44:43.656: main.vala:445: Starting session with system profile
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 16:44:44.121: Error: can't assign "shotwell" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+AppButton@file:///home/judge/.config/ags/windows/dock/dock.js:58:35
+Taskbar/<.properties<@file:///home/judge/.config/ags/windows/dock/dock.js:117:40
+Taskbar/<.connections<@file:///home/judge/.config/ags/windows/dock/dock.js:142:42
+default/connectTo/id<@resource:///com/github/Aylur/ags/widgets/widget.js:105:65
+_onEvent@resource:///com/github/Aylur/ags/service/hyprland.js:220:26
+async*_watchSocket/<@resource:///com/github/Aylur/ags/service/hyprland.js:121:18
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+** Message: 16:44:46.947: main.vala:445: Starting session with system profile
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 16:44:47.359: Error: can't assign "shotwell" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+AppButton@file:///home/judge/.config/ags/windows/dock/dock.js:58:35
+Taskbar/<.properties<@file:///home/judge/.config/ags/windows/dock/dock.js:117:40
+Taskbar/<.connections<@file:///home/judge/.config/ags/windows/dock/dock.js:142:42
+default/connectTo/id<@resource:///com/github/Aylur/ags/widgets/widget.js:105:65
+_onEvent@resource:///com/github/Aylur/ags/service/hyprland.js:220:26
+async*_watchSocket/<@resource:///com/github/Aylur/ags/service/hyprland.js:121:18
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+** Message: 16:44:49.178: main.vala:445: Starting session with system profile
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 16:44:49.558: Error: can't assign "shotwell" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+AppButton@file:///home/judge/.config/ags/windows/dock/dock.js:58:35
+Taskbar/<.properties<@file:///home/judge/.config/ags/windows/dock/dock.js:117:40
+Taskbar/<.connections<@file:///home/judge/.config/ags/windows/dock/dock.js:142:42
+default/connectTo/id<@resource:///com/github/Aylur/ags/widgets/widget.js:105:65
+_onEvent@resource:///com/github/Aylur/ags/service/hyprland.js:220:26
+async*_watchSocket/<@resource:///com/github/Aylur/ags/service/hyprland.js:121:18
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+** Message: 16:44:52.063: main.vala:445: Starting session with system profile
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 16:44:52.388: Error: can't assign "shotwell" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+AppButton@file:///home/judge/.config/ags/windows/dock/dock.js:58:35
+Taskbar/<.properties<@file:///home/judge/.config/ags/windows/dock/dock.js:117:40
+Taskbar/<.connections<@file:///home/judge/.config/ags/windows/dock/dock.js:142:42
+default/connectTo/id<@resource:///com/github/Aylur/ags/widgets/widget.js:105:65
+_onEvent@resource:///com/github/Aylur/ags/service/hyprland.js:220:26
+async*_watchSocket/<@resource:///com/github/Aylur/ags/service/hyprland.js:121:18
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+** Message: 16:44:54.557: main.vala:445: Starting session with system profile
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 16:44:54.908: Error: can't assign "shotwell" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+AppButton@file:///home/judge/.config/ags/windows/dock/dock.js:58:35
+Taskbar/<.properties<@file:///home/judge/.config/ags/windows/dock/dock.js:117:40
+Taskbar/<.connections<@file:///home/judge/.config/ags/windows/dock/dock.js:142:42
+default/connectTo/id<@resource:///com/github/Aylur/ags/widgets/widget.js:105:65
+_onEvent@resource:///com/github/Aylur/ags/service/hyprland.js:220:26
+async*_watchSocket/<@resource:///com/github/Aylur/ags/service/hyprland.js:121:18
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+** Message: 16:44:56.804: main.vala:445: Starting session with system profile
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 16:44:57.195: Error: can't assign "shotwell" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+AppButton@file:///home/judge/.config/ags/windows/dock/dock.js:58:35
+Taskbar/<.properties<@file:///home/judge/.config/ags/windows/dock/dock.js:117:40
+Taskbar/<.connections<@file:///home/judge/.config/ags/windows/dock/dock.js:142:42
+default/connectTo/id<@resource:///com/github/Aylur/ags/widgets/widget.js:105:65
+_onEvent@resource:///com/github/Aylur/ags/service/hyprland.js:220:26
+async*_watchSocket/<@resource:///com/github/Aylur/ags/service/hyprland.js:121:18
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 16:44:59.668: Error: can't assign "Thorium-browser" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+client@file:///home/judge/.config/ags/windows/overview/overview.js:283:24
+workspace/widget.update/<@file:///home/judge/.config/ags/windows/overview/overview.js:369:52
+workspace/widget.update@file:///home/judge/.config/ags/windows/overview/overview.js:369:17
+OverviewRow/<.properties</</<@file:///home/judge/.config/ags/windows/overview/overview.js:388:49
+OverviewRow/<.properties</<@file:///home/judge/.config/ags/windows/overview/overview.js:388:32
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+/home/judge/.config/ags/scripts/color_generation/switchwall.sh: line 6: cd: /home/judge/Pictures: No such file or directory
+cp: cannot create regular file '/home/judge/.config/fuzzel/fuzzel.ini': No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+sed: can't read /home/judge/.config/fuzzel/fuzzel.ini: No such file or directory
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+> Warning:          Could not resolve keysym XF86CameraAccessEnable
+> Warning:          Could not resolve keysym XF86CameraAccessDisable
+> Warning:          Could not resolve keysym XF86CameraAccessToggle
+> Warning:          Could not resolve keysym XF86NextElement
+> Warning:          Could not resolve keysym XF86PreviousElement
+> Warning:          Could not resolve keysym XF86AutopilotEngageToggle
+> Warning:          Could not resolve keysym XF86MarkWaypoint
+> Warning:          Could not resolve keysym XF86Sos
+> Warning:          Could not resolve keysym XF86NavChart
+> Warning:          Could not resolve keysym XF86FishingChart
+> Warning:          Could not resolve keysym XF86SingleRangeRadar
+> Warning:          Could not resolve keysym XF86DualRangeRadar
+> Warning:          Could not resolve keysym XF86RadarOverlay
+> Warning:          Could not resolve keysym XF86TraditionalSonar
+> Warning:          Could not resolve keysym XF86ClearvuSonar
+> Warning:          Could not resolve keysym XF86SidevuSonar
+> Warning:          Could not resolve keysym XF86NavInfo
+Errors from xkbcomp are not fatal to the X server
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+> Warning:          Could not resolve keysym XF86CameraAccessEnable
+> Warning:          Could not resolve keysym XF86CameraAccessDisable
+> Warning:          Could not resolve keysym XF86CameraAccessToggle
+> Warning:          Could not resolve keysym XF86NextElement
+> Warning:          Could not resolve keysym XF86PreviousElement
+> Warning:          Could not resolve keysym XF86AutopilotEngageToggle
+> Warning:          Could not resolve keysym XF86MarkWaypoint
+> Warning:          Could not resolve keysym XF86Sos
+> Warning:          Could not resolve keysym XF86NavChart
+> Warning:          Could not resolve keysym XF86FishingChart
+> Warning:          Could not resolve keysym XF86SingleRangeRadar
+> Warning:          Could not resolve keysym XF86DualRangeRadar
+> Warning:          Could not resolve keysym XF86RadarOverlay
+> Warning:          Could not resolve keysym XF86TraditionalSonar
+> Warning:          Could not resolve keysym XF86ClearvuSonar
+> Warning:          Could not resolve keysym XF86SidevuSonar
+> Warning:          Could not resolve keysym XF86NavInfo
+Errors from xkbcomp are not fatal to the X server
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+> Warning:          Could not resolve keysym XF86CameraAccessEnable
+> Warning:          Could not resolve keysym XF86CameraAccessDisable
+> Warning:          Could not resolve keysym XF86CameraAccessToggle
+> Warning:          Could not resolve keysym XF86NextElement
+> Warning:          Could not resolve keysym XF86PreviousElement
+> Warning:          Could not resolve keysym XF86AutopilotEngageToggle
+> Warning:          Could not resolve keysym XF86MarkWaypoint
+> Warning:          Could not resolve keysym XF86Sos
+> Warning:          Could not resolve keysym XF86NavChart
+> Warning:          Could not resolve keysym XF86FishingChart
+> Warning:          Could not resolve keysym XF86SingleRangeRadar
+> Warning:          Could not resolve keysym XF86DualRangeRadar
+> Warning:          Could not resolve keysym XF86RadarOverlay
+> Warning:          Could not resolve keysym XF86TraditionalSonar
+> Warning:          Could not resolve keysym XF86ClearvuSonar
+> Warning:          Could not resolve keysym XF86SidevuSonar
+> Warning:          Could not resolve keysym XF86NavInfo
+Errors from xkbcomp are not fatal to the X server
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+> Warning:          Could not resolve keysym XF86CameraAccessEnable
+> Warning:          Could not resolve keysym XF86CameraAccessDisable
+> Warning:          Could not resolve keysym XF86CameraAccessToggle
+> Warning:          Could not resolve keysym XF86NextElement
+> Warning:          Could not resolve keysym XF86PreviousElement
+> Warning:          Could not resolve keysym XF86AutopilotEngageToggle
+> Warning:          Could not resolve keysym XF86MarkWaypoint
+> Warning:          Could not resolve keysym XF86Sos
+> Warning:          Could not resolve keysym XF86NavChart
+> Warning:          Could not resolve keysym XF86FishingChart
+> Warning:          Could not resolve keysym XF86SingleRangeRadar
+> Warning:          Could not resolve keysym XF86DualRangeRadar
+> Warning:          Could not resolve keysym XF86RadarOverlay
+> Warning:          Could not resolve keysym XF86TraditionalSonar
+> Warning:          Could not resolve keysym XF86ClearvuSonar
+> Warning:          Could not resolve keysym XF86SidevuSonar
+> Warning:          Could not resolve keysym XF86NavInfo
+Errors from xkbcomp are not fatal to the X server
+[Gradience] [1;31mERROR:[0m Failed to retrieve a list of presets.
+	Exc: [Errno 2] No such file or directory: '/home/judge/.config/presets'
+	At: /usr/bin/gradience-cli:286
+	    /usr/lib/python3.11/site-packages/gradience/backend/theming/preset.py:103
+	    /usr/lib/python3.11/pathlib.py:931
+No such key “gtk-application-prefer-dark-theme”
+
+(com.github.Aylur.ags:20452): Gjs-CRITICAL **: 16:46:37.904: JS ERROR: TypeError: this._client is undefined
+toggleWifi@resource:///com/github/Aylur/ags/service/network.js:207:41
+AgsButton/<@resource:///com/github/Aylur/ags/widgets/button.js:29:44
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+
+[21867:21897:1119/164646.153372:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+[21867:21897:1119/164655.770218:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+[21867:21897:1119/164703.019689:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 16:47:03.706: Error: can't assign "gnome-control-center" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+AppButton@file:///home/judge/.config/ags/windows/dock/dock.js:58:35
+Taskbar/<.properties<@file:///home/judge/.config/ags/windows/dock/dock.js:117:40
+Taskbar/<.connections<@file:///home/judge/.config/ags/windows/dock/dock.js:142:42
+default/connectTo/id<@resource:///com/github/Aylur/ags/widgets/widget.js:105:65
+_onEvent@resource:///com/github/Aylur/ags/service/hyprland.js:220:26
+async*_watchSocket/<@resource:///com/github/Aylur/ags/service/hyprland.js:121:18
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+> Warning:          Could not resolve keysym XF86CameraAccessEnable
+> Warning:          Could not resolve keysym XF86CameraAccessDisable
+> Warning:          Could not resolve keysym XF86CameraAccessToggle
+> Warning:          Could not resolve keysym XF86NextElement
+> Warning:          Could not resolve keysym XF86PreviousElement
+> Warning:          Could not resolve keysym XF86AutopilotEngageToggle
+> Warning:          Could not resolve keysym XF86MarkWaypoint
+> Warning:          Could not resolve keysym XF86Sos
+> Warning:          Could not resolve keysym XF86NavChart
+> Warning:          Could not resolve keysym XF86FishingChart
+> Warning:          Could not resolve keysym XF86SingleRangeRadar
+> Warning:          Could not resolve keysym XF86DualRangeRadar
+> Warning:          Could not resolve keysym XF86RadarOverlay
+> Warning:          Could not resolve keysym XF86TraditionalSonar
+> Warning:          Could not resolve keysym XF86ClearvuSonar
+> Warning:          Could not resolve keysym XF86SidevuSonar
+> Warning:          Could not resolve keysym XF86NavInfo
+Errors from xkbcomp are not fatal to the X server
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+> Warning:          Could not resolve keysym XF86CameraAccessEnable
+> Warning:          Could not resolve keysym XF86CameraAccessDisable
+> Warning:          Could not resolve keysym XF86CameraAccessToggle
+> Warning:          Could not resolve keysym XF86NextElement
+> Warning:          Could not resolve keysym XF86PreviousElement
+> Warning:          Could not resolve keysym XF86AutopilotEngageToggle
+> Warning:          Could not resolve keysym XF86MarkWaypoint
+> Warning:          Could not resolve keysym XF86Sos
+> Warning:          Could not resolve keysym XF86NavChart
+> Warning:          Could not resolve keysym XF86FishingChart
+> Warning:          Could not resolve keysym XF86SingleRangeRadar
+> Warning:          Could not resolve keysym XF86DualRangeRadar
+> Warning:          Could not resolve keysym XF86RadarOverlay
+> Warning:          Could not resolve keysym XF86TraditionalSonar
+> Warning:          Could not resolve keysym XF86ClearvuSonar
+> Warning:          Could not resolve keysym XF86SidevuSonar
+> Warning:          Could not resolve keysym XF86NavInfo
+Errors from xkbcomp are not fatal to the X server
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+> Warning:          Could not resolve keysym XF86CameraAccessEnable
+> Warning:          Could not resolve keysym XF86CameraAccessDisable
+> Warning:          Could not resolve keysym XF86CameraAccessToggle
+> Warning:          Could not resolve keysym XF86NextElement
+> Warning:          Could not resolve keysym XF86PreviousElement
+> Warning:          Could not resolve keysym XF86AutopilotEngageToggle
+> Warning:          Could not resolve keysym XF86MarkWaypoint
+> Warning:          Could not resolve keysym XF86Sos
+> Warning:          Could not resolve keysym XF86NavChart
+> Warning:          Could not resolve keysym XF86FishingChart
+> Warning:          Could not resolve keysym XF86SingleRangeRadar
+> Warning:          Could not resolve keysym XF86DualRangeRadar
+> Warning:          Could not resolve keysym XF86RadarOverlay
+> Warning:          Could not resolve keysym XF86TraditionalSonar
+> Warning:          Could not resolve keysym XF86ClearvuSonar
+> Warning:          Could not resolve keysym XF86SidevuSonar
+> Warning:          Could not resolve keysym XF86NavInfo
+Errors from xkbcomp are not fatal to the X server
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+> Warning:          Could not resolve keysym XF86CameraAccessEnable
+> Warning:          Could not resolve keysym XF86CameraAccessDisable
+> Warning:          Could not resolve keysym XF86CameraAccessToggle
+> Warning:          Could not resolve keysym XF86NextElement
+> Warning:          Could not resolve keysym XF86PreviousElement
+> Warning:          Could not resolve keysym XF86AutopilotEngageToggle
+> Warning:          Could not resolve keysym XF86MarkWaypoint
+> Warning:          Could not resolve keysym XF86Sos
+> Warning:          Could not resolve keysym XF86NavChart
+> Warning:          Could not resolve keysym XF86FishingChart
+> Warning:          Could not resolve keysym XF86SingleRangeRadar
+> Warning:          Could not resolve keysym XF86DualRangeRadar
+> Warning:          Could not resolve keysym XF86RadarOverlay
+> Warning:          Could not resolve keysym XF86TraditionalSonar
+> Warning:          Could not resolve keysym XF86ClearvuSonar
+> Warning:          Could not resolve keysym XF86SidevuSonar
+> Warning:          Could not resolve keysym XF86NavInfo
+Errors from xkbcomp are not fatal to the X server
+/bin/sh: line 1: nautilus: command not found
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 16:55:29.991: Error: can't assign "org.kde.kate" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+AppButton@file:///home/judge/.config/ags/windows/dock/dock.js:58:35
+Taskbar/<.properties<@file:///home/judge/.config/ags/windows/dock/dock.js:117:40
+Taskbar/<.connections<@file:///home/judge/.config/ags/windows/dock/dock.js:142:42
+default/connectTo/id<@resource:///com/github/Aylur/ags/widgets/widget.js:105:65
+_onEvent@resource:///com/github/Aylur/ags/service/hyprland.js:220:26
+async*_watchSocket/<@resource:///com/github/Aylur/ags/service/hyprland.js:121:18
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 16:55:34.607: Error: can't assign "Thorium-browser" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+client@file:///home/judge/.config/ags/windows/overview/overview.js:283:24
+workspace/widget.update/<@file:///home/judge/.config/ags/windows/overview/overview.js:369:52
+workspace/widget.update@file:///home/judge/.config/ags/windows/overview/overview.js:369:17
+OverviewRow/<.properties</</<@file:///home/judge/.config/ags/windows/overview/overview.js:388:49
+OverviewRow/<.properties</<@file:///home/judge/.config/ags/windows/overview/overview.js:388:32
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+
+(com.github.Aylur.ags:20452): LIBDBUSMENU-GLIB-WARNING **: 16:56:21.474: Unable to replace properties on 0: Error getting properties for ID
+
+(com.github.Aylur.ags:20452): LIBDBUSMENU-GLIB-WARNING **: 16:56:21.574: Unable to replace properties on 0: Error getting properties for ID
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 16:56:21.613: Error: can't assign "blueberry.py" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+AppButton@file:///home/judge/.config/ags/windows/dock/dock.js:58:35
+Taskbar/<.properties<@file:///home/judge/.config/ags/windows/dock/dock.js:117:40
+Taskbar/<.connections<@file:///home/judge/.config/ags/windows/dock/dock.js:142:42
+default/connectTo/id<@resource:///com/github/Aylur/ags/widgets/widget.js:105:65
+_onEvent@resource:///com/github/Aylur/ags/service/hyprland.js:220:26
+async*_watchSocket/<@resource:///com/github/Aylur/ags/service/hyprland.js:121:18
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+
+(com.github.Aylur.ags:20452): LIBDBUSMENU-GLIB-WARNING **: 16:56:25.090: Unable to replace properties on 0: Error getting properties for ID
+
+(com.github.Aylur.ags:20452): LIBDBUSMENU-GLIB-WARNING **: 16:56:26.395: Unable to replace properties on 0: Error getting properties for ID
+warn: terminal.c:1802: slave exited with signal 15 (Terminated)
+
+(com.github.Aylur.ags:20452): LIBDBUSMENU-GLIB-WARNING **: 16:56:55.215: Unable to replace properties on 0: Error getting properties for ID
+
+(com.github.Aylur.ags:20452): LIBDBUSMENU-GLIB-WARNING **: 16:56:56.219: Unable to replace properties on 0: Error getting properties for ID
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+> Warning:          Could not resolve keysym XF86CameraAccessEnable
+> Warning:          Could not resolve keysym XF86CameraAccessDisable
+> Warning:          Could not resolve keysym XF86CameraAccessToggle
+> Warning:          Could not resolve keysym XF86NextElement
+> Warning:          Could not resolve keysym XF86PreviousElement
+> Warning:          Could not resolve keysym XF86AutopilotEngageToggle
+> Warning:          Could not resolve keysym XF86MarkWaypoint
+> Warning:          Could not resolve keysym XF86Sos
+> Warning:          Could not resolve keysym XF86NavChart
+> Warning:          Could not resolve keysym XF86FishingChart
+> Warning:          Could not resolve keysym XF86SingleRangeRadar
+> Warning:          Could not resolve keysym XF86DualRangeRadar
+> Warning:          Could not resolve keysym XF86RadarOverlay
+> Warning:          Could not resolve keysym XF86TraditionalSonar
+> Warning:          Could not resolve keysym XF86ClearvuSonar
+> Warning:          Could not resolve keysym XF86SidevuSonar
+> Warning:          Could not resolve keysym XF86NavInfo
+Errors from xkbcomp are not fatal to the X server
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+> Warning:          Could not resolve keysym XF86CameraAccessEnable
+> Warning:          Could not resolve keysym XF86CameraAccessDisable
+> Warning:          Could not resolve keysym XF86CameraAccessToggle
+> Warning:          Could not resolve keysym XF86NextElement
+> Warning:          Could not resolve keysym XF86PreviousElement
+> Warning:          Could not resolve keysym XF86AutopilotEngageToggle
+> Warning:          Could not resolve keysym XF86MarkWaypoint
+> Warning:          Could not resolve keysym XF86Sos
+> Warning:          Could not resolve keysym XF86NavChart
+> Warning:          Could not resolve keysym XF86FishingChart
+> Warning:          Could not resolve keysym XF86SingleRangeRadar
+> Warning:          Could not resolve keysym XF86DualRangeRadar
+> Warning:          Could not resolve keysym XF86RadarOverlay
+> Warning:          Could not resolve keysym XF86TraditionalSonar
+> Warning:          Could not resolve keysym XF86ClearvuSonar
+> Warning:          Could not resolve keysym XF86SidevuSonar
+> Warning:          Could not resolve keysym XF86NavInfo
+Errors from xkbcomp are not fatal to the X server
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+> Warning:          Could not resolve keysym XF86CameraAccessEnable
+> Warning:          Could not resolve keysym XF86CameraAccessDisable
+> Warning:          Could not resolve keysym XF86CameraAccessToggle
+> Warning:          Could not resolve keysym XF86NextElement
+> Warning:          Could not resolve keysym XF86PreviousElement
+> Warning:          Could not resolve keysym XF86AutopilotEngageToggle
+> Warning:          Could not resolve keysym XF86MarkWaypoint
+> Warning:          Could not resolve keysym XF86Sos
+> Warning:          Could not resolve keysym XF86NavChart
+> Warning:          Could not resolve keysym XF86FishingChart
+> Warning:          Could not resolve keysym XF86SingleRangeRadar
+> Warning:          Could not resolve keysym XF86DualRangeRadar
+> Warning:          Could not resolve keysym XF86RadarOverlay
+> Warning:          Could not resolve keysym XF86TraditionalSonar
+> Warning:          Could not resolve keysym XF86ClearvuSonar
+> Warning:          Could not resolve keysym XF86SidevuSonar
+> Warning:          Could not resolve keysym XF86NavInfo
+Errors from xkbcomp are not fatal to the X server
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+> Warning:          Could not resolve keysym XF86CameraAccessEnable
+> Warning:          Could not resolve keysym XF86CameraAccessDisable
+> Warning:          Could not resolve keysym XF86CameraAccessToggle
+> Warning:          Could not resolve keysym XF86NextElement
+> Warning:          Could not resolve keysym XF86PreviousElement
+> Warning:          Could not resolve keysym XF86AutopilotEngageToggle
+> Warning:          Could not resolve keysym XF86MarkWaypoint
+> Warning:          Could not resolve keysym XF86Sos
+> Warning:          Could not resolve keysym XF86NavChart
+> Warning:          Could not resolve keysym XF86FishingChart
+> Warning:          Could not resolve keysym XF86SingleRangeRadar
+> Warning:          Could not resolve keysym XF86DualRangeRadar
+> Warning:          Could not resolve keysym XF86RadarOverlay
+> Warning:          Could not resolve keysym XF86TraditionalSonar
+> Warning:          Could not resolve keysym XF86ClearvuSonar
+> Warning:          Could not resolve keysym XF86SidevuSonar
+> Warning:          Could not resolve keysym XF86NavInfo
+Errors from xkbcomp are not fatal to the X server
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+> Warning:          Could not resolve keysym XF86CameraAccessEnable
+> Warning:          Could not resolve keysym XF86CameraAccessDisable
+> Warning:          Could not resolve keysym XF86CameraAccessToggle
+> Warning:          Could not resolve keysym XF86NextElement
+> Warning:          Could not resolve keysym XF86PreviousElement
+> Warning:          Could not resolve keysym XF86AutopilotEngageToggle
+> Warning:          Could not resolve keysym XF86MarkWaypoint
+> Warning:          Could not resolve keysym XF86Sos
+> Warning:          Could not resolve keysym XF86NavChart
+> Warning:          Could not resolve keysym XF86FishingChart
+> Warning:          Could not resolve keysym XF86SingleRangeRadar
+> Warning:          Could not resolve keysym XF86DualRangeRadar
+> Warning:          Could not resolve keysym XF86RadarOverlay
+> Warning:          Could not resolve keysym XF86TraditionalSonar
+> Warning:          Could not resolve keysym XF86ClearvuSonar
+> Warning:          Could not resolve keysym XF86SidevuSonar
+> Warning:          Could not resolve keysym XF86NavInfo
+Errors from xkbcomp are not fatal to the X server
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+> Warning:          Could not resolve keysym XF86CameraAccessEnable
+> Warning:          Could not resolve keysym XF86CameraAccessDisable
+> Warning:          Could not resolve keysym XF86CameraAccessToggle
+> Warning:          Could not resolve keysym XF86NextElement
+> Warning:          Could not resolve keysym XF86PreviousElement
+> Warning:          Could not resolve keysym XF86AutopilotEngageToggle
+> Warning:          Could not resolve keysym XF86MarkWaypoint
+> Warning:          Could not resolve keysym XF86Sos
+> Warning:          Could not resolve keysym XF86NavChart
+> Warning:          Could not resolve keysym XF86FishingChart
+> Warning:          Could not resolve keysym XF86SingleRangeRadar
+> Warning:          Could not resolve keysym XF86DualRangeRadar
+> Warning:          Could not resolve keysym XF86RadarOverlay
+> Warning:          Could not resolve keysym XF86TraditionalSonar
+> Warning:          Could not resolve keysym XF86ClearvuSonar
+> Warning:          Could not resolve keysym XF86SidevuSonar
+> Warning:          Could not resolve keysym XF86NavInfo
+Errors from xkbcomp are not fatal to the X server
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+> Warning:          Could not resolve keysym XF86CameraAccessEnable
+> Warning:          Could not resolve keysym XF86CameraAccessDisable
+> Warning:          Could not resolve keysym XF86CameraAccessToggle
+> Warning:          Could not resolve keysym XF86NextElement
+> Warning:          Could not resolve keysym XF86PreviousElement
+> Warning:          Could not resolve keysym XF86AutopilotEngageToggle
+> Warning:          Could not resolve keysym XF86MarkWaypoint
+> Warning:          Could not resolve keysym XF86Sos
+> Warning:          Could not resolve keysym XF86NavChart
+> Warning:          Could not resolve keysym XF86FishingChart
+> Warning:          Could not resolve keysym XF86SingleRangeRadar
+> Warning:          Could not resolve keysym XF86DualRangeRadar
+> Warning:          Could not resolve keysym XF86RadarOverlay
+> Warning:          Could not resolve keysym XF86TraditionalSonar
+> Warning:          Could not resolve keysym XF86ClearvuSonar
+> Warning:          Could not resolve keysym XF86SidevuSonar
+> Warning:          Could not resolve keysym XF86NavInfo
+Errors from xkbcomp are not fatal to the X server
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+> Warning:          Could not resolve keysym XF86CameraAccessEnable
+> Warning:          Could not resolve keysym XF86CameraAccessDisable
+> Warning:          Could not resolve keysym XF86CameraAccessToggle
+> Warning:          Could not resolve keysym XF86NextElement
+> Warning:          Could not resolve keysym XF86PreviousElement
+> Warning:          Could not resolve keysym XF86AutopilotEngageToggle
+> Warning:          Could not resolve keysym XF86MarkWaypoint
+> Warning:          Could not resolve keysym XF86Sos
+> Warning:          Could not resolve keysym XF86NavChart
+> Warning:          Could not resolve keysym XF86FishingChart
+> Warning:          Could not resolve keysym XF86SingleRangeRadar
+> Warning:          Could not resolve keysym XF86DualRangeRadar
+> Warning:          Could not resolve keysym XF86RadarOverlay
+> Warning:          Could not resolve keysym XF86TraditionalSonar
+> Warning:          Could not resolve keysym XF86ClearvuSonar
+> Warning:          Could not resolve keysym XF86SidevuSonar
+> Warning:          Could not resolve keysym XF86NavInfo
+Errors from xkbcomp are not fatal to the X server
+
+(blueberry.py:31743): com.linuxmint.blueberry-WARNING **: 16:59:39.186: DE could not be detected!
+
+(com.github.Aylur.ags:20452): LIBDBUSMENU-GLIB-WARNING **: 16:59:39.450: Unable to replace properties on 0: Error getting properties for ID
+
+(com.github.Aylur.ags:20452): LIBDBUSMENU-GLIB-WARNING **: 16:59:39.551: Unable to replace properties on 0: Error getting properties for ID
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 16:59:39.628: Error: can't assign "blueberry.py" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+AppButton@file:///home/judge/.config/ags/windows/dock/dock.js:58:35
+Taskbar/<.properties<@file:///home/judge/.config/ags/windows/dock/dock.js:117:40
+Taskbar/<.connections<@file:///home/judge/.config/ags/windows/dock/dock.js:142:42
+default/connectTo/id<@resource:///com/github/Aylur/ags/widgets/widget.js:105:65
+_onEvent@resource:///com/github/Aylur/ags/service/hyprland.js:220:26
+async*_watchSocket/<@resource:///com/github/Aylur/ags/service/hyprland.js:121:18
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+
+(com.github.Aylur.ags:20452): LIBDBUSMENU-GLIB-WARNING **: 16:59:39.853: Unable to replace properties on 0: Error getting properties for ID
+
+(com.github.Aylur.ags:20452): LIBDBUSMENU-GLIB-WARNING **: 16:59:40.555: Unable to replace properties on 0: Error getting properties for ID
+
+(com.github.Aylur.ags:20452): LIBDBUSMENU-GLIB-WARNING **: 16:59:42.165: Unable to replace properties on 0: Error getting properties for ID
+
+(blueberry.py:31899): com.linuxmint.blueberry-WARNING **: 16:59:44.105: DE could not be detected!
+
+(com.github.Aylur.ags:20452): LIBDBUSMENU-GLIB-WARNING **: 16:59:44.271: Unable to replace properties on 0: Error getting properties for ID
+
+(com.github.Aylur.ags:20452): LIBDBUSMENU-GLIB-WARNING **: 16:59:44.373: Unable to replace properties on 0: Error getting properties for ID
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 16:59:44.666: Error: can't assign "blueberry.py" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+AppButton@file:///home/judge/.config/ags/windows/dock/dock.js:58:35
+Taskbar/<.properties<@file:///home/judge/.config/ags/windows/dock/dock.js:117:40
+Taskbar/<.connections<@file:///home/judge/.config/ags/windows/dock/dock.js:142:42
+default/connectTo/id<@resource:///com/github/Aylur/ags/widgets/widget.js:105:65
+_onEvent@resource:///com/github/Aylur/ags/service/hyprland.js:220:26
+async*_watchSocket/<@resource:///com/github/Aylur/ags/service/hyprland.js:121:18
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+
+(com.github.Aylur.ags:20452): LIBDBUSMENU-GLIB-WARNING **: 16:59:45.476: Unable to replace properties on 0: Error getting properties for ID
+
+(com.github.Aylur.ags:20452): LIBDBUSMENU-GLIB-WARNING **: 16:59:47.488: Unable to replace properties on 0: Error getting properties for ID
+
+(com.github.Aylur.ags:20452): LIBDBUSMENU-GLIB-WARNING **: 17:00:10.190: Unable to replace properties on 0: Error getting properties for ID
+
+(blueberry.py:32144): com.linuxmint.blueberry-WARNING **: 17:00:13.585: DE could not be detected!
+
+(com.github.Aylur.ags:20452): LIBDBUSMENU-GLIB-WARNING **: 17:00:13.904: Unable to replace properties on 0: Error getting properties for ID
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 17:00:14.234: Error: can't assign "blueberry.py" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+AppButton@file:///home/judge/.config/ags/windows/dock/dock.js:58:35
+Taskbar/<.properties<@file:///home/judge/.config/ags/windows/dock/dock.js:117:40
+Taskbar/<.connections<@file:///home/judge/.config/ags/windows/dock/dock.js:142:42
+default/connectTo/id<@resource:///com/github/Aylur/ags/widgets/widget.js:105:65
+_onEvent@resource:///com/github/Aylur/ags/service/hyprland.js:220:26
+async*_watchSocket/<@resource:///com/github/Aylur/ags/service/hyprland.js:121:18
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+
+(com.github.Aylur.ags:20452): LIBDBUSMENU-GLIB-WARNING **: 17:00:16.113: Unable to replace properties on 0: Error getting properties for ID
+
+(com.github.Aylur.ags:20452): LIBDBUSMENU-GLIB-WARNING **: 17:00:19.829: Unable to replace properties on 0: Error getting properties for ID
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 17:00:32.374: Error: can't assign "org.kde.kate" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+AppButton@file:///home/judge/.config/ags/windows/dock/dock.js:58:35
+Taskbar/<.properties<@file:///home/judge/.config/ags/windows/dock/dock.js:117:40
+Taskbar/<.connections<@file:///home/judge/.config/ags/windows/dock/dock.js:142:42
+default/connectTo/id<@resource:///com/github/Aylur/ags/widgets/widget.js:105:65
+_onEvent@resource:///com/github/Aylur/ags/service/hyprland.js:220:26
+async*_watchSocket/<@resource:///com/github/Aylur/ags/service/hyprland.js:121:18
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+
+(com.github.Aylur.ags:20452): LIBDBUSMENU-GLIB-WARNING **: 17:00:46.139: Unable to replace properties on 0: Error getting properties for ID
+
+(com.github.Aylur.ags:20452): LIBDBUSMENU-GLIB-WARNING **: 17:00:49.151: Unable to replace properties on 0: Error getting properties for ID
+[32645:32671:1119/170055.548098:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/portal/desktop: org.freedesktop.DBus.Error.InvalidArgs: No such interface “org.freedesktop.portal.FileChooser”
+[32645:32671:1119/170055.548165:ERROR:select_file_dialog_linux_portal.cc(274)] Failed to read portal version property
+[32645:32645:1119/170055.554130:ERROR:policy_logger.cc(154)] :components/enterprise/browser/controller/chrome_browser_cloud_management_controller.cc(163) Cloud management controller initialization aborted as CBCM is not enabled.
+[32645:32645:1119/170055.660352:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.portal.Settings.Read: object_path= /org/freedesktop/portal/desktop: org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 17:00:55.661: Error: can't assign "Thorium-browser" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+AppButton@file:///home/judge/.config/ags/windows/dock/dock.js:58:35
+Taskbar/<.properties<@file:///home/judge/.config/ags/windows/dock/dock.js:117:40
+Taskbar/<.connections<@file:///home/judge/.config/ags/windows/dock/dock.js:142:42
+default/connectTo/id<@resource:///com/github/Aylur/ags/widgets/widget.js:105:65
+_onEvent@resource:///com/github/Aylur/ags/service/hyprland.js:220:26
+async*_watchSocket/<@resource:///com/github/Aylur/ags/service/hyprland.js:121:18
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+[32645:32645:1119/170055.757561:ERROR:pref_model_associator.cc(150)] Failed to deserialize value of preference 'sync.demographics': Line: 1, column: 1, Unexpected token.
+warn: terminal.c:1802: slave exited with signal 15 (Terminated)
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+> Warning:          Could not resolve keysym XF86CameraAccessEnable
+> Warning:          Could not resolve keysym XF86CameraAccessDisable
+> Warning:          Could not resolve keysym XF86CameraAccessToggle
+> Warning:          Could not resolve keysym XF86NextElement
+> Warning:          Could not resolve keysym XF86PreviousElement
+> Warning:          Could not resolve keysym XF86AutopilotEngageToggle
+> Warning:          Could not resolve keysym XF86MarkWaypoint
+> Warning:          Could not resolve keysym XF86Sos
+> Warning:          Could not resolve keysym XF86NavChart
+> Warning:          Could not resolve keysym XF86FishingChart
+> Warning:          Could not resolve keysym XF86SingleRangeRadar
+> Warning:          Could not resolve keysym XF86DualRangeRadar
+> Warning:          Could not resolve keysym XF86RadarOverlay
+> Warning:          Could not resolve keysym XF86TraditionalSonar
+> Warning:          Could not resolve keysym XF86ClearvuSonar
+> Warning:          Could not resolve keysym XF86SidevuSonar
+> Warning:          Could not resolve keysym XF86NavInfo
+Errors from xkbcomp are not fatal to the X server
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+> Warning:          Could not resolve keysym XF86CameraAccessEnable
+> Warning:          Could not resolve keysym XF86CameraAccessDisable
+> Warning:          Could not resolve keysym XF86CameraAccessToggle
+> Warning:          Could not resolve keysym XF86NextElement
+> Warning:          Could not resolve keysym XF86PreviousElement
+> Warning:          Could not resolve keysym XF86AutopilotEngageToggle
+> Warning:          Could not resolve keysym XF86MarkWaypoint
+> Warning:          Could not resolve keysym XF86Sos
+> Warning:          Could not resolve keysym XF86NavChart
+> Warning:          Could not resolve keysym XF86FishingChart
+> Warning:          Could not resolve keysym XF86SingleRangeRadar
+> Warning:          Could not resolve keysym XF86DualRangeRadar
+> Warning:          Could not resolve keysym XF86RadarOverlay
+> Warning:          Could not resolve keysym XF86TraditionalSonar
+> Warning:          Could not resolve keysym XF86ClearvuSonar
+> Warning:          Could not resolve keysym XF86SidevuSonar
+> Warning:          Could not resolve keysym XF86NavInfo
+Errors from xkbcomp are not fatal to the X server
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+> Warning:          Could not resolve keysym XF86CameraAccessEnable
+> Warning:          Could not resolve keysym XF86CameraAccessDisable
+> Warning:          Could not resolve keysym XF86CameraAccessToggle
+> Warning:          Could not resolve keysym XF86NextElement
+> Warning:          Could not resolve keysym XF86PreviousElement
+> Warning:          Could not resolve keysym XF86AutopilotEngageToggle
+> Warning:          Could not resolve keysym XF86MarkWaypoint
+> Warning:          Could not resolve keysym XF86Sos
+> Warning:          Could not resolve keysym XF86NavChart
+> Warning:          Could not resolve keysym XF86FishingChart
+> Warning:          Could not resolve keysym XF86SingleRangeRadar
+> Warning:          Could not resolve keysym XF86DualRangeRadar
+> Warning:          Could not resolve keysym XF86RadarOverlay
+> Warning:          Could not resolve keysym XF86TraditionalSonar
+> Warning:          Could not resolve keysym XF86ClearvuSonar
+> Warning:          Could not resolve keysym XF86SidevuSonar
+> Warning:          Could not resolve keysym XF86NavInfo
+Errors from xkbcomp are not fatal to the X server
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+> Warning:          Could not resolve keysym XF86CameraAccessEnable
+> Warning:          Could not resolve keysym XF86CameraAccessDisable
+> Warning:          Could not resolve keysym XF86CameraAccessToggle
+> Warning:          Could not resolve keysym XF86NextElement
+> Warning:          Could not resolve keysym XF86PreviousElement
+> Warning:          Could not resolve keysym XF86AutopilotEngageToggle
+> Warning:          Could not resolve keysym XF86MarkWaypoint
+> Warning:          Could not resolve keysym XF86Sos
+> Warning:          Could not resolve keysym XF86NavChart
+> Warning:          Could not resolve keysym XF86FishingChart
+> Warning:          Could not resolve keysym XF86SingleRangeRadar
+> Warning:          Could not resolve keysym XF86DualRangeRadar
+> Warning:          Could not resolve keysym XF86RadarOverlay
+> Warning:          Could not resolve keysym XF86TraditionalSonar
+> Warning:          Could not resolve keysym XF86ClearvuSonar
+> Warning:          Could not resolve keysym XF86SidevuSonar
+> Warning:          Could not resolve keysym XF86NavInfo
+Errors from xkbcomp are not fatal to the X server
+/bin/sh: line 1: anyrun: command not found
+/bin/sh: line 1: anyrun: command not found
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+> Warning:          Could not resolve keysym XF86CameraAccessEnable
+> Warning:          Could not resolve keysym XF86CameraAccessDisable
+> Warning:          Could not resolve keysym XF86CameraAccessToggle
+> Warning:          Could not resolve keysym XF86NextElement
+> Warning:          Could not resolve keysym XF86PreviousElement
+> Warning:          Could not resolve keysym XF86AutopilotEngageToggle
+> Warning:          Could not resolve keysym XF86MarkWaypoint
+> Warning:          Could not resolve keysym XF86Sos
+> Warning:          Could not resolve keysym XF86NavChart
+> Warning:          Could not resolve keysym XF86FishingChart
+> Warning:          Could not resolve keysym XF86SingleRangeRadar
+> Warning:          Could not resolve keysym XF86DualRangeRadar
+> Warning:          Could not resolve keysym XF86RadarOverlay
+> Warning:          Could not resolve keysym XF86TraditionalSonar
+> Warning:          Could not resolve keysym XF86ClearvuSonar
+> Warning:          Could not resolve keysym XF86SidevuSonar
+> Warning:          Could not resolve keysym XF86NavInfo
+Errors from xkbcomp are not fatal to the X server
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+> Warning:          Could not resolve keysym XF86CameraAccessEnable
+> Warning:          Could not resolve keysym XF86CameraAccessDisable
+> Warning:          Could not resolve keysym XF86CameraAccessToggle
+> Warning:          Could not resolve keysym XF86NextElement
+> Warning:          Could not resolve keysym XF86PreviousElement
+> Warning:          Could not resolve keysym XF86AutopilotEngageToggle
+> Warning:          Could not resolve keysym XF86MarkWaypoint
+> Warning:          Could not resolve keysym XF86Sos
+> Warning:          Could not resolve keysym XF86NavChart
+> Warning:          Could not resolve keysym XF86FishingChart
+> Warning:          Could not resolve keysym XF86SingleRangeRadar
+> Warning:          Could not resolve keysym XF86DualRangeRadar
+> Warning:          Could not resolve keysym XF86RadarOverlay
+> Warning:          Could not resolve keysym XF86TraditionalSonar
+> Warning:          Could not resolve keysym XF86ClearvuSonar
+> Warning:          Could not resolve keysym XF86SidevuSonar
+> Warning:          Could not resolve keysym XF86NavInfo
+Errors from xkbcomp are not fatal to the X server
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+> Warning:          Could not resolve keysym XF86CameraAccessEnable
+> Warning:          Could not resolve keysym XF86CameraAccessDisable
+> Warning:          Could not resolve keysym XF86CameraAccessToggle
+> Warning:          Could not resolve keysym XF86NextElement
+> Warning:          Could not resolve keysym XF86PreviousElement
+> Warning:          Could not resolve keysym XF86AutopilotEngageToggle
+> Warning:          Could not resolve keysym XF86MarkWaypoint
+> Warning:          Could not resolve keysym XF86Sos
+> Warning:          Could not resolve keysym XF86NavChart
+> Warning:          Could not resolve keysym XF86FishingChart
+> Warning:          Could not resolve keysym XF86SingleRangeRadar
+> Warning:          Could not resolve keysym XF86DualRangeRadar
+> Warning:          Could not resolve keysym XF86RadarOverlay
+> Warning:          Could not resolve keysym XF86TraditionalSonar
+> Warning:          Could not resolve keysym XF86ClearvuSonar
+> Warning:          Could not resolve keysym XF86SidevuSonar
+> Warning:          Could not resolve keysym XF86NavInfo
+Errors from xkbcomp are not fatal to the X server
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+> Warning:          Could not resolve keysym XF86CameraAccessEnable
+> Warning:          Could not resolve keysym XF86CameraAccessDisable
+> Warning:          Could not resolve keysym XF86CameraAccessToggle
+> Warning:          Could not resolve keysym XF86NextElement
+> Warning:          Could not resolve keysym XF86PreviousElement
+> Warning:          Could not resolve keysym XF86AutopilotEngageToggle
+> Warning:          Could not resolve keysym XF86MarkWaypoint
+> Warning:          Could not resolve keysym XF86Sos
+> Warning:          Could not resolve keysym XF86NavChart
+> Warning:          Could not resolve keysym XF86FishingChart
+> Warning:          Could not resolve keysym XF86SingleRangeRadar
+> Warning:          Could not resolve keysym XF86DualRangeRadar
+> Warning:          Could not resolve keysym XF86RadarOverlay
+> Warning:          Could not resolve keysym XF86TraditionalSonar
+> Warning:          Could not resolve keysym XF86ClearvuSonar
+> Warning:          Could not resolve keysym XF86SidevuSonar
+> Warning:          Could not resolve keysym XF86NavInfo
+Errors from xkbcomp are not fatal to the X server
+[34402:1119/170337.843438:ERROR:object_proxy.cc(623)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/portal/desktop: org.freedesktop.DBus.Error.InvalidArgs: No such interface “org.freedesktop.portal.FileChooser”
+[34402:1119/170337.843488:ERROR:select_file_dialog_linux_portal.cc(274)] Failed to read portal version property
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+> Warning:          Could not resolve keysym XF86CameraAccessEnable
+> Warning:          Could not resolve keysym XF86CameraAccessDisable
+> Warning:          Could not resolve keysym XF86CameraAccessToggle
+> Warning:          Could not resolve keysym XF86NextElement
+> Warning:          Could not resolve keysym XF86PreviousElement
+> Warning:          Could not resolve keysym XF86AutopilotEngageToggle
+> Warning:          Could not resolve keysym XF86MarkWaypoint
+> Warning:          Could not resolve keysym XF86Sos
+> Warning:          Could not resolve keysym XF86NavChart
+> Warning:          Could not resolve keysym XF86FishingChart
+> Warning:          Could not resolve keysym XF86SingleRangeRadar
+> Warning:          Could not resolve keysym XF86DualRangeRadar
+> Warning:          Could not resolve keysym XF86RadarOverlay
+> Warning:          Could not resolve keysym XF86TraditionalSonar
+> Warning:          Could not resolve keysym XF86ClearvuSonar
+> Warning:          Could not resolve keysym XF86SidevuSonar
+> Warning:          Could not resolve keysym XF86NavInfo
+Errors from xkbcomp are not fatal to the X server
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+> Warning:          Could not resolve keysym XF86CameraAccessEnable
+> Warning:          Could not resolve keysym XF86CameraAccessDisable
+> Warning:          Could not resolve keysym XF86CameraAccessToggle
+> Warning:          Could not resolve keysym XF86NextElement
+> Warning:          Could not resolve keysym XF86PreviousElement
+> Warning:          Could not resolve keysym XF86AutopilotEngageToggle
+> Warning:          Could not resolve keysym XF86MarkWaypoint
+> Warning:          Could not resolve keysym XF86Sos
+> Warning:          Could not resolve keysym XF86NavChart
+> Warning:          Could not resolve keysym XF86FishingChart
+> Warning:          Could not resolve keysym XF86SingleRangeRadar
+> Warning:          Could not resolve keysym XF86DualRangeRadar
+> Warning:          Could not resolve keysym XF86RadarOverlay
+> Warning:          Could not resolve keysym XF86TraditionalSonar
+> Warning:          Could not resolve keysym XF86ClearvuSonar
+> Warning:          Could not resolve keysym XF86SidevuSonar
+> Warning:          Could not resolve keysym XF86NavInfo
+Errors from xkbcomp are not fatal to the X server
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+> Warning:          Could not resolve keysym XF86CameraAccessEnable
+> Warning:          Could not resolve keysym XF86CameraAccessDisable
+> Warning:          Could not resolve keysym XF86CameraAccessToggle
+> Warning:          Could not resolve keysym XF86NextElement
+> Warning:          Could not resolve keysym XF86PreviousElement
+> Warning:          Could not resolve keysym XF86AutopilotEngageToggle
+> Warning:          Could not resolve keysym XF86MarkWaypoint
+> Warning:          Could not resolve keysym XF86Sos
+> Warning:          Could not resolve keysym XF86NavChart
+> Warning:          Could not resolve keysym XF86FishingChart
+> Warning:          Could not resolve keysym XF86SingleRangeRadar
+> Warning:          Could not resolve keysym XF86DualRangeRadar
+> Warning:          Could not resolve keysym XF86RadarOverlay
+> Warning:          Could not resolve keysym XF86TraditionalSonar
+> Warning:          Could not resolve keysym XF86ClearvuSonar
+> Warning:          Could not resolve keysym XF86SidevuSonar
+> Warning:          Could not resolve keysym XF86NavInfo
+Errors from xkbcomp are not fatal to the X server
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+> Warning:          Could not resolve keysym XF86CameraAccessEnable
+> Warning:          Could not resolve keysym XF86CameraAccessDisable
+> Warning:          Could not resolve keysym XF86CameraAccessToggle
+> Warning:          Could not resolve keysym XF86NextElement
+> Warning:          Could not resolve keysym XF86PreviousElement
+> Warning:          Could not resolve keysym XF86AutopilotEngageToggle
+> Warning:          Could not resolve keysym XF86MarkWaypoint
+> Warning:          Could not resolve keysym XF86Sos
+> Warning:          Could not resolve keysym XF86NavChart
+> Warning:          Could not resolve keysym XF86FishingChart
+> Warning:          Could not resolve keysym XF86SingleRangeRadar
+> Warning:          Could not resolve keysym XF86DualRangeRadar
+> Warning:          Could not resolve keysym XF86RadarOverlay
+> Warning:          Could not resolve keysym XF86TraditionalSonar
+> Warning:          Could not resolve keysym XF86ClearvuSonar
+> Warning:          Could not resolve keysym XF86SidevuSonar
+> Warning:          Could not resolve keysym XF86NavInfo
+Errors from xkbcomp are not fatal to the X server
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+> Warning:          Could not resolve keysym XF86CameraAccessEnable
+> Warning:          Could not resolve keysym XF86CameraAccessDisable
+> Warning:          Could not resolve keysym XF86CameraAccessToggle
+> Warning:          Could not resolve keysym XF86NextElement
+> Warning:          Could not resolve keysym XF86PreviousElement
+> Warning:          Could not resolve keysym XF86AutopilotEngageToggle
+> Warning:          Could not resolve keysym XF86MarkWaypoint
+> Warning:          Could not resolve keysym XF86Sos
+> Warning:          Could not resolve keysym XF86NavChart
+> Warning:          Could not resolve keysym XF86FishingChart
+> Warning:          Could not resolve keysym XF86SingleRangeRadar
+> Warning:          Could not resolve keysym XF86DualRangeRadar
+> Warning:          Could not resolve keysym XF86RadarOverlay
+> Warning:          Could not resolve keysym XF86TraditionalSonar
+> Warning:          Could not resolve keysym XF86ClearvuSonar
+> Warning:          Could not resolve keysym XF86SidevuSonar
+> Warning:          Could not resolve keysym XF86NavInfo
+Errors from xkbcomp are not fatal to the X server
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+> Warning:          Could not resolve keysym XF86CameraAccessEnable
+> Warning:          Could not resolve keysym XF86CameraAccessDisable
+> Warning:          Could not resolve keysym XF86CameraAccessToggle
+> Warning:          Could not resolve keysym XF86NextElement
+> Warning:          Could not resolve keysym XF86PreviousElement
+> Warning:          Could not resolve keysym XF86AutopilotEngageToggle
+> Warning:          Could not resolve keysym XF86MarkWaypoint
+> Warning:          Could not resolve keysym XF86Sos
+> Warning:          Could not resolve keysym XF86NavChart
+> Warning:          Could not resolve keysym XF86FishingChart
+> Warning:          Could not resolve keysym XF86SingleRangeRadar
+> Warning:          Could not resolve keysym XF86DualRangeRadar
+> Warning:          Could not resolve keysym XF86RadarOverlay
+> Warning:          Could not resolve keysym XF86TraditionalSonar
+> Warning:          Could not resolve keysym XF86ClearvuSonar
+> Warning:          Could not resolve keysym XF86SidevuSonar
+> Warning:          Could not resolve keysym XF86NavInfo
+Errors from xkbcomp are not fatal to the X server
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+> Warning:          Could not resolve keysym XF86CameraAccessEnable
+> Warning:          Could not resolve keysym XF86CameraAccessDisable
+> Warning:          Could not resolve keysym XF86CameraAccessToggle
+> Warning:          Could not resolve keysym XF86NextElement
+> Warning:          Could not resolve keysym XF86PreviousElement
+> Warning:          Could not resolve keysym XF86AutopilotEngageToggle
+> Warning:          Could not resolve keysym XF86MarkWaypoint
+> Warning:          Could not resolve keysym XF86Sos
+> Warning:          Could not resolve keysym XF86NavChart
+> Warning:          Could not resolve keysym XF86FishingChart
+> Warning:          Could not resolve keysym XF86SingleRangeRadar
+> Warning:          Could not resolve keysym XF86DualRangeRadar
+> Warning:          Could not resolve keysym XF86RadarOverlay
+> Warning:          Could not resolve keysym XF86TraditionalSonar
+> Warning:          Could not resolve keysym XF86ClearvuSonar
+> Warning:          Could not resolve keysym XF86SidevuSonar
+> Warning:          Could not resolve keysym XF86NavInfo
+Errors from xkbcomp are not fatal to the X server
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+> Warning:          Could not resolve keysym XF86CameraAccessEnable
+> Warning:          Could not resolve keysym XF86CameraAccessDisable
+> Warning:          Could not resolve keysym XF86CameraAccessToggle
+> Warning:          Could not resolve keysym XF86NextElement
+> Warning:          Could not resolve keysym XF86PreviousElement
+> Warning:          Could not resolve keysym XF86AutopilotEngageToggle
+> Warning:          Could not resolve keysym XF86MarkWaypoint
+> Warning:          Could not resolve keysym XF86Sos
+> Warning:          Could not resolve keysym XF86NavChart
+> Warning:          Could not resolve keysym XF86FishingChart
+> Warning:          Could not resolve keysym XF86SingleRangeRadar
+> Warning:          Could not resolve keysym XF86DualRangeRadar
+> Warning:          Could not resolve keysym XF86RadarOverlay
+> Warning:          Could not resolve keysym XF86TraditionalSonar
+> Warning:          Could not resolve keysym XF86ClearvuSonar
+> Warning:          Could not resolve keysym XF86SidevuSonar
+> Warning:          Could not resolve keysym XF86NavInfo
+Errors from xkbcomp are not fatal to the X server
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+> Warning:          Could not resolve keysym XF86CameraAccessEnable
+> Warning:          Could not resolve keysym XF86CameraAccessDisable
+> Warning:          Could not resolve keysym XF86CameraAccessToggle
+> Warning:          Could not resolve keysym XF86NextElement
+> Warning:          Could not resolve keysym XF86PreviousElement
+> Warning:          Could not resolve keysym XF86AutopilotEngageToggle
+> Warning:          Could not resolve keysym XF86MarkWaypoint
+> Warning:          Could not resolve keysym XF86Sos
+> Warning:          Could not resolve keysym XF86NavChart
+> Warning:          Could not resolve keysym XF86FishingChart
+> Warning:          Could not resolve keysym XF86SingleRangeRadar
+> Warning:          Could not resolve keysym XF86DualRangeRadar
+> Warning:          Could not resolve keysym XF86RadarOverlay
+> Warning:          Could not resolve keysym XF86TraditionalSonar
+> Warning:          Could not resolve keysym XF86ClearvuSonar
+> Warning:          Could not resolve keysym XF86SidevuSonar
+> Warning:          Could not resolve keysym XF86NavInfo
+Errors from xkbcomp are not fatal to the X server
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+> Warning:          Could not resolve keysym XF86CameraAccessEnable
+> Warning:          Could not resolve keysym XF86CameraAccessDisable
+> Warning:          Could not resolve keysym XF86CameraAccessToggle
+> Warning:          Could not resolve keysym XF86NextElement
+> Warning:          Could not resolve keysym XF86PreviousElement
+> Warning:          Could not resolve keysym XF86AutopilotEngageToggle
+> Warning:          Could not resolve keysym XF86MarkWaypoint
+> Warning:          Could not resolve keysym XF86Sos
+> Warning:          Could not resolve keysym XF86NavChart
+> Warning:          Could not resolve keysym XF86FishingChart
+> Warning:          Could not resolve keysym XF86SingleRangeRadar
+> Warning:          Could not resolve keysym XF86DualRangeRadar
+> Warning:          Could not resolve keysym XF86RadarOverlay
+> Warning:          Could not resolve keysym XF86TraditionalSonar
+> Warning:          Could not resolve keysym XF86ClearvuSonar
+> Warning:          Could not resolve keysym XF86SidevuSonar
+> Warning:          Could not resolve keysym XF86NavInfo
+Errors from xkbcomp are not fatal to the X server
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+> Warning:          Could not resolve keysym XF86CameraAccessEnable
+> Warning:          Could not resolve keysym XF86CameraAccessDisable
+> Warning:          Could not resolve keysym XF86CameraAccessToggle
+> Warning:          Could not resolve keysym XF86NextElement
+> Warning:          Could not resolve keysym XF86PreviousElement
+> Warning:          Could not resolve keysym XF86AutopilotEngageToggle
+> Warning:          Could not resolve keysym XF86MarkWaypoint
+> Warning:          Could not resolve keysym XF86Sos
+> Warning:          Could not resolve keysym XF86NavChart
+> Warning:          Could not resolve keysym XF86FishingChart
+> Warning:          Could not resolve keysym XF86SingleRangeRadar
+> Warning:          Could not resolve keysym XF86DualRangeRadar
+> Warning:          Could not resolve keysym XF86RadarOverlay
+> Warning:          Could not resolve keysym XF86TraditionalSonar
+> Warning:          Could not resolve keysym XF86ClearvuSonar
+> Warning:          Could not resolve keysym XF86SidevuSonar
+> Warning:          Could not resolve keysym XF86NavInfo
+Errors from xkbcomp are not fatal to the X server
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+> Warning:          Could not resolve keysym XF86CameraAccessEnable
+> Warning:          Could not resolve keysym XF86CameraAccessDisable
+> Warning:          Could not resolve keysym XF86CameraAccessToggle
+> Warning:          Could not resolve keysym XF86NextElement
+> Warning:          Could not resolve keysym XF86PreviousElement
+> Warning:          Could not resolve keysym XF86AutopilotEngageToggle
+> Warning:          Could not resolve keysym XF86MarkWaypoint
+> Warning:          Could not resolve keysym XF86Sos
+> Warning:          Could not resolve keysym XF86NavChart
+> Warning:          Could not resolve keysym XF86FishingChart
+> Warning:          Could not resolve keysym XF86SingleRangeRadar
+> Warning:          Could not resolve keysym XF86DualRangeRadar
+> Warning:          Could not resolve keysym XF86RadarOverlay
+> Warning:          Could not resolve keysym XF86TraditionalSonar
+> Warning:          Could not resolve keysym XF86ClearvuSonar
+> Warning:          Could not resolve keysym XF86SidevuSonar
+> Warning:          Could not resolve keysym XF86NavInfo
+Errors from xkbcomp are not fatal to the X server
+[35107:1119/170523.647013:ERROR:object_proxy.cc(623)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/portal/desktop: org.freedesktop.DBus.Error.InvalidArgs: No such interface “org.freedesktop.portal.FileChooser”
+[35107:1119/170523.647053:ERROR:select_file_dialog_linux_portal.cc(274)] Failed to read portal version property
+[35137:1119/170527.482093:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 1 times!
+[35137:1119/170532.961370:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 2 times!
+[35137:1119/170535.239346:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 3 times!
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+> Warning:          Could not resolve keysym XF86CameraAccessEnable
+> Warning:          Could not resolve keysym XF86CameraAccessDisable
+> Warning:          Could not resolve keysym XF86CameraAccessToggle
+> Warning:          Could not resolve keysym XF86NextElement
+> Warning:          Could not resolve keysym XF86PreviousElement
+> Warning:          Could not resolve keysym XF86AutopilotEngageToggle
+> Warning:          Could not resolve keysym XF86MarkWaypoint
+> Warning:          Could not resolve keysym XF86Sos
+> Warning:          Could not resolve keysym XF86NavChart
+> Warning:          Could not resolve keysym XF86FishingChart
+> Warning:          Could not resolve keysym XF86SingleRangeRadar
+> Warning:          Could not resolve keysym XF86DualRangeRadar
+> Warning:          Could not resolve keysym XF86RadarOverlay
+> Warning:          Could not resolve keysym XF86TraditionalSonar
+> Warning:          Could not resolve keysym XF86ClearvuSonar
+> Warning:          Could not resolve keysym XF86SidevuSonar
+> Warning:          Could not resolve keysym XF86NavInfo
+Errors from xkbcomp are not fatal to the X server
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+> Warning:          Could not resolve keysym XF86CameraAccessEnable
+> Warning:          Could not resolve keysym XF86CameraAccessDisable
+> Warning:          Could not resolve keysym XF86CameraAccessToggle
+> Warning:          Could not resolve keysym XF86NextElement
+> Warning:          Could not resolve keysym XF86PreviousElement
+> Warning:          Could not resolve keysym XF86AutopilotEngageToggle
+> Warning:          Could not resolve keysym XF86MarkWaypoint
+> Warning:          Could not resolve keysym XF86Sos
+> Warning:          Could not resolve keysym XF86NavChart
+> Warning:          Could not resolve keysym XF86FishingChart
+> Warning:          Could not resolve keysym XF86SingleRangeRadar
+> Warning:          Could not resolve keysym XF86DualRangeRadar
+> Warning:          Could not resolve keysym XF86RadarOverlay
+> Warning:          Could not resolve keysym XF86TraditionalSonar
+> Warning:          Could not resolve keysym XF86ClearvuSonar
+> Warning:          Could not resolve keysym XF86SidevuSonar
+> Warning:          Could not resolve keysym XF86NavInfo
+Errors from xkbcomp are not fatal to the X server
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+> Warning:          Could not resolve keysym XF86CameraAccessEnable
+> Warning:          Could not resolve keysym XF86CameraAccessDisable
+> Warning:          Could not resolve keysym XF86CameraAccessToggle
+> Warning:          Could not resolve keysym XF86NextElement
+> Warning:          Could not resolve keysym XF86PreviousElement
+> Warning:          Could not resolve keysym XF86AutopilotEngageToggle
+> Warning:          Could not resolve keysym XF86MarkWaypoint
+> Warning:          Could not resolve keysym XF86Sos
+> Warning:          Could not resolve keysym XF86NavChart
+> Warning:          Could not resolve keysym XF86FishingChart
+> Warning:          Could not resolve keysym XF86SingleRangeRadar
+> Warning:          Could not resolve keysym XF86DualRangeRadar
+> Warning:          Could not resolve keysym XF86RadarOverlay
+> Warning:          Could not resolve keysym XF86TraditionalSonar
+> Warning:          Could not resolve keysym XF86ClearvuSonar
+> Warning:          Could not resolve keysym XF86SidevuSonar
+> Warning:          Could not resolve keysym XF86NavInfo
+Errors from xkbcomp are not fatal to the X server
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+> Warning:          Could not resolve keysym XF86CameraAccessEnable
+> Warning:          Could not resolve keysym XF86CameraAccessDisable
+> Warning:          Could not resolve keysym XF86CameraAccessToggle
+> Warning:          Could not resolve keysym XF86NextElement
+> Warning:          Could not resolve keysym XF86PreviousElement
+> Warning:          Could not resolve keysym XF86AutopilotEngageToggle
+> Warning:          Could not resolve keysym XF86MarkWaypoint
+> Warning:          Could not resolve keysym XF86Sos
+> Warning:          Could not resolve keysym XF86NavChart
+> Warning:          Could not resolve keysym XF86FishingChart
+> Warning:          Could not resolve keysym XF86SingleRangeRadar
+> Warning:          Could not resolve keysym XF86DualRangeRadar
+> Warning:          Could not resolve keysym XF86RadarOverlay
+> Warning:          Could not resolve keysym XF86TraditionalSonar
+> Warning:          Could not resolve keysym XF86ClearvuSonar
+> Warning:          Could not resolve keysym XF86SidevuSonar
+> Warning:          Could not resolve keysym XF86NavInfo
+Errors from xkbcomp are not fatal to the X server
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+> Warning:          Could not resolve keysym XF86CameraAccessEnable
+> Warning:          Could not resolve keysym XF86CameraAccessDisable
+> Warning:          Could not resolve keysym XF86CameraAccessToggle
+> Warning:          Could not resolve keysym XF86NextElement
+> Warning:          Could not resolve keysym XF86PreviousElement
+> Warning:          Could not resolve keysym XF86AutopilotEngageToggle
+> Warning:          Could not resolve keysym XF86MarkWaypoint
+> Warning:          Could not resolve keysym XF86Sos
+> Warning:          Could not resolve keysym XF86NavChart
+> Warning:          Could not resolve keysym XF86FishingChart
+> Warning:          Could not resolve keysym XF86SingleRangeRadar
+> Warning:          Could not resolve keysym XF86DualRangeRadar
+> Warning:          Could not resolve keysym XF86RadarOverlay
+> Warning:          Could not resolve keysym XF86TraditionalSonar
+> Warning:          Could not resolve keysym XF86ClearvuSonar
+> Warning:          Could not resolve keysym XF86SidevuSonar
+> Warning:          Could not resolve keysym XF86NavInfo
+Errors from xkbcomp are not fatal to the X server
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+> Warning:          Could not resolve keysym XF86CameraAccessEnable
+> Warning:          Could not resolve keysym XF86CameraAccessDisable
+> Warning:          Could not resolve keysym XF86CameraAccessToggle
+> Warning:          Could not resolve keysym XF86NextElement
+> Warning:          Could not resolve keysym XF86PreviousElement
+> Warning:          Could not resolve keysym XF86AutopilotEngageToggle
+> Warning:          Could not resolve keysym XF86MarkWaypoint
+> Warning:          Could not resolve keysym XF86Sos
+> Warning:          Could not resolve keysym XF86NavChart
+> Warning:          Could not resolve keysym XF86FishingChart
+> Warning:          Could not resolve keysym XF86SingleRangeRadar
+> Warning:          Could not resolve keysym XF86DualRangeRadar
+> Warning:          Could not resolve keysym XF86RadarOverlay
+> Warning:          Could not resolve keysym XF86TraditionalSonar
+> Warning:          Could not resolve keysym XF86ClearvuSonar
+> Warning:          Could not resolve keysym XF86SidevuSonar
+> Warning:          Could not resolve keysym XF86NavInfo
+Errors from xkbcomp are not fatal to the X server
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+> Warning:          Could not resolve keysym XF86CameraAccessEnable
+> Warning:          Could not resolve keysym XF86CameraAccessDisable
+> Warning:          Could not resolve keysym XF86CameraAccessToggle
+> Warning:          Could not resolve keysym XF86NextElement
+> Warning:          Could not resolve keysym XF86PreviousElement
+> Warning:          Could not resolve keysym XF86AutopilotEngageToggle
+> Warning:          Could not resolve keysym XF86MarkWaypoint
+> Warning:          Could not resolve keysym XF86Sos
+> Warning:          Could not resolve keysym XF86NavChart
+> Warning:          Could not resolve keysym XF86FishingChart
+> Warning:          Could not resolve keysym XF86SingleRangeRadar
+> Warning:          Could not resolve keysym XF86DualRangeRadar
+> Warning:          Could not resolve keysym XF86RadarOverlay
+> Warning:          Could not resolve keysym XF86TraditionalSonar
+> Warning:          Could not resolve keysym XF86ClearvuSonar
+> Warning:          Could not resolve keysym XF86SidevuSonar
+> Warning:          Could not resolve keysym XF86NavInfo
+Errors from xkbcomp are not fatal to the X server
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+> Warning:          Could not resolve keysym XF86CameraAccessEnable
+> Warning:          Could not resolve keysym XF86CameraAccessDisable
+> Warning:          Could not resolve keysym XF86CameraAccessToggle
+> Warning:          Could not resolve keysym XF86NextElement
+> Warning:          Could not resolve keysym XF86PreviousElement
+> Warning:          Could not resolve keysym XF86AutopilotEngageToggle
+> Warning:          Could not resolve keysym XF86MarkWaypoint
+> Warning:          Could not resolve keysym XF86Sos
+> Warning:          Could not resolve keysym XF86NavChart
+> Warning:          Could not resolve keysym XF86FishingChart
+> Warning:          Could not resolve keysym XF86SingleRangeRadar
+> Warning:          Could not resolve keysym XF86DualRangeRadar
+> Warning:          Could not resolve keysym XF86RadarOverlay
+> Warning:          Could not resolve keysym XF86TraditionalSonar
+> Warning:          Could not resolve keysym XF86ClearvuSonar
+> Warning:          Could not resolve keysym XF86SidevuSonar
+> Warning:          Could not resolve keysym XF86NavInfo
+Errors from xkbcomp are not fatal to the X server
+[36305:1119/170743.506084:ERROR:object_proxy.cc(623)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/portal/desktop: org.freedesktop.DBus.Error.InvalidArgs: No such interface “org.freedesktop.portal.FileChooser”
+[36305:1119/170743.506132:ERROR:select_file_dialog_linux_portal.cc(274)] Failed to read portal version property
+[37782:1119/171046.778392:ERROR:object_proxy.cc(623)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/portal/desktop: org.freedesktop.DBus.Error.InvalidArgs: No such interface “org.freedesktop.portal.FileChooser”
+[37782:1119/171046.778430:ERROR:select_file_dialog_linux_portal.cc(274)] Failed to read portal version property
+/bin/sh: line 1: wl-copy: command not found
+Error opening data file /usr/share/tessdata/eng.traineddata
+Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory.
+Failed loading language 'eng'
+Tesseract couldn't load any languages!
+Could not initialize tesseract.
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 17:12:52.039: Error: can't assign "Discord" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+AppButton@file:///home/judge/.config/ags/windows/dock/dock.js:58:35
+Taskbar/<.properties<@file:///home/judge/.config/ags/windows/dock/dock.js:117:40
+Taskbar/<.connections<@file:///home/judge/.config/ags/windows/dock/dock.js:142:42
+default/connectTo/id<@resource:///com/github/Aylur/ags/widgets/widget.js:105:65
+_onEvent@resource:///com/github/Aylur/ags/service/hyprland.js:220:26
+async*_watchSocket/<@resource:///com/github/Aylur/ags/service/hyprland.js:121:18
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 17:12:53.501: Error: can't assign "Discord" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+AppButton@file:///home/judge/.config/ags/windows/dock/dock.js:58:35
+Taskbar/<.properties<@file:///home/judge/.config/ags/windows/dock/dock.js:117:40
+Taskbar/<.connections<@file:///home/judge/.config/ags/windows/dock/dock.js:142:42
+default/connectTo/id<@resource:///com/github/Aylur/ags/widgets/widget.js:105:65
+_onEvent@resource:///com/github/Aylur/ags/service/hyprland.js:220:26
+async*_watchSocket/<@resource:///com/github/Aylur/ags/service/hyprland.js:121:18
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 17:12:53.707: Error: can't assign "Discord" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+AppButton@file:///home/judge/.config/ags/windows/dock/dock.js:58:35
+Taskbar/<.properties<@file:///home/judge/.config/ags/windows/dock/dock.js:117:40
+Taskbar/<.connections<@file:///home/judge/.config/ags/windows/dock/dock.js:142:42
+default/connectTo/id<@resource:///com/github/Aylur/ags/widgets/widget.js:105:65
+_onEvent@resource:///com/github/Aylur/ags/service/hyprland.js:220:26
+async*_watchSocket/<@resource:///com/github/Aylur/ags/service/hyprland.js:121:18
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+
+(com.github.Aylur.ags:20452): Gjs-CRITICAL **: 17:12:53.772: Object .AgsRevealer (0x5559c4101b10), has been already disposed — impossible to access it. This might be caused by the object having been destroyed from C code using something such as destroy(), dispose(), or remove() vfuncs.
+== Stack trace for context 0x5559c29bde40 ==
+#0   5559c2a9ca90 i   file:///home/judge/.config/ags/windows/dock/dock.js:134 (e304861c650 @ 17)
+#1   5559c2a9ca10 i   resource:///com/github/Aylur/ags/utils.js:81 (15bcdd4ae4c0 @ 6)
+#2   5559c2a9c948 i   resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266 (15bcdd47c420 @ 139)
+
+(com.github.Aylur.ags:20452): Gjs-CRITICAL **: 17:12:53.789: JS ERROR: TypeError: removedButton is undefined
+Taskbar/<.properties<@file:///home/judge/.config/ags/windows/dock/dock.js:131:13
+Taskbar/<.connections<@file:///home/judge/.config/ags/windows/dock/dock.js:143:42
+default/connectTo/id<@resource:///com/github/Aylur/ags/widgets/widget.js:105:65
+_onEvent@resource:///com/github/Aylur/ags/service/hyprland.js:249:26
+async*_watchSocket/<@resource:///com/github/Aylur/ags/service/hyprland.js:121:18
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+
+/bin/sh: line 1: wl-copy: command not found
+Error opening data file /usr/share/tessdata/eng.traineddata
+Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory.
+Failed loading language 'eng'
+Tesseract couldn't load any languages!
+Could not initialize tesseract.
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 17:15:31.025: Error: can't assign "Discord" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+AppButton@file:///home/judge/.config/ags/windows/dock/dock.js:58:35
+Taskbar/<.properties<@file:///home/judge/.config/ags/windows/dock/dock.js:117:40
+Taskbar/<.connections<@file:///home/judge/.config/ags/windows/dock/dock.js:142:42
+default/connectTo/id<@resource:///com/github/Aylur/ags/widgets/widget.js:105:65
+_onEvent@resource:///com/github/Aylur/ags/service/hyprland.js:220:26
+async*_watchSocket/<@resource:///com/github/Aylur/ags/service/hyprland.js:121:18
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+ThunarThumbnailer: Failed to retrieve supported types: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.thumbnails.Thumbnailer1 was not provided by any .service files
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 17:18:24.941: Error: can't assign "thunar" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+AppButton@file:///home/judge/.config/ags/windows/dock/dock.js:58:35
+Taskbar/<.properties<@file:///home/judge/.config/ags/windows/dock/dock.js:117:40
+Taskbar/<.connections<@file:///home/judge/.config/ags/windows/dock/dock.js:142:42
+default/connectTo/id<@resource:///com/github/Aylur/ags/widgets/widget.js:105:65
+_onEvent@resource:///com/github/Aylur/ags/service/hyprland.js:220:26
+async*_watchSocket/<@resource:///com/github/Aylur/ags/service/hyprland.js:121:18
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+/bin/sh: line 1: wl-copy: command not found
+Error opening data file /usr/share/tessdata/eng.traineddata
+Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory.
+Failed loading language 'eng'
+Tesseract couldn't load any languages!
+Could not initialize tesseract.
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 17:18:52.385: Error: can't assign "Discord" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+AppButton@file:///home/judge/.config/ags/windows/dock/dock.js:58:35
+Taskbar/<.properties<@file:///home/judge/.config/ags/windows/dock/dock.js:117:40
+Taskbar/<.connections<@file:///home/judge/.config/ags/windows/dock/dock.js:142:42
+default/connectTo/id<@resource:///com/github/Aylur/ags/widgets/widget.js:105:65
+_onEvent@resource:///com/github/Aylur/ags/service/hyprland.js:220:26
+async*_watchSocket/<@resource:///com/github/Aylur/ags/service/hyprland.js:121:18
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 17:38:14.442: Error: can't assign "thunar" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+client@file:///home/judge/.config/ags/windows/overview/overview.js:283:24
+workspace/widget.update/<@file:///home/judge/.config/ags/windows/overview/overview.js:369:52
+workspace/widget.update@file:///home/judge/.config/ags/windows/overview/overview.js:369:17
+OverviewRow/<.properties</</<@file:///home/judge/.config/ags/windows/overview/overview.js:388:49
+OverviewRow/<.properties</<@file:///home/judge/.config/ags/windows/overview/overview.js:388:32
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 17:38:16.738: Error: can't assign "thunar" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+client@file:///home/judge/.config/ags/windows/overview/overview.js:283:24
+workspace/widget.update/<@file:///home/judge/.config/ags/windows/overview/overview.js:369:52
+workspace/widget.update@file:///home/judge/.config/ags/windows/overview/overview.js:369:17
+OverviewRow/<.properties</</<@file:///home/judge/.config/ags/windows/overview/overview.js:388:49
+OverviewRow/<.properties</<@file:///home/judge/.config/ags/windows/overview/overview.js:388:32
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 17:38:20.237: Error: can't assign "thunar" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+client@file:///home/judge/.config/ags/windows/overview/overview.js:283:24
+workspace/widget.update/<@file:///home/judge/.config/ags/windows/overview/overview.js:369:52
+workspace/widget.update@file:///home/judge/.config/ags/windows/overview/overview.js:369:17
+OverviewRow/<.properties</</<@file:///home/judge/.config/ags/windows/overview/overview.js:388:49
+OverviewRow/<.properties</<@file:///home/judge/.config/ags/windows/overview/overview.js:388:32
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 17:38:21.387: Error: can't assign "thunar" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+client@file:///home/judge/.config/ags/windows/overview/overview.js:283:24
+workspace/widget.update/<@file:///home/judge/.config/ags/windows/overview/overview.js:369:52
+workspace/widget.update@file:///home/judge/.config/ags/windows/overview/overview.js:369:17
+OverviewRow/<.properties</</<@file:///home/judge/.config/ags/windows/overview/overview.js:388:49
+OverviewRow/<.properties</<@file:///home/judge/.config/ags/windows/overview/overview.js:388:32
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 17:38:22.845: Error: can't assign "thunar" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+client@file:///home/judge/.config/ags/windows/overview/overview.js:283:24
+workspace/widget.update/<@file:///home/judge/.config/ags/windows/overview/overview.js:369:52
+workspace/widget.update@file:///home/judge/.config/ags/windows/overview/overview.js:369:17
+OverviewRow/<.properties</</<@file:///home/judge/.config/ags/windows/overview/overview.js:388:49
+OverviewRow/<.properties</<@file:///home/judge/.config/ags/windows/overview/overview.js:388:32
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  
+warn: terminal.c:1802: slave exited with signal 15 (Terminated)
+[45880:1119/174129.026887:ERROR:object_proxy.cc(623)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/portal/desktop: org.freedesktop.DBus.Error.InvalidArgs: No such interface “org.freedesktop.portal.FileChooser”
+[45880:1119/174129.026923:ERROR:select_file_dialog_linux_portal.cc(274)] Failed to read portal version property
+[45908:1119/174131.085895:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 1 times!
+[45908:1119/174131.101889:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 2 times!
+[45908:1119/174134.623610:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 3 times!
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+> Warning:          Could not resolve keysym XF86CameraAccessEnable
+> Warning:          Could not resolve keysym XF86CameraAccessDisable
+> Warning:          Could not resolve keysym XF86CameraAccessToggle
+> Warning:          Could not resolve keysym XF86NextElement
+> Warning:          Could not resolve keysym XF86PreviousElement
+> Warning:          Could not resolve keysym XF86AutopilotEngageToggle
+> Warning:          Could not resolve keysym XF86MarkWaypoint
+> Warning:          Could not resolve keysym XF86Sos
+> Warning:          Could not resolve keysym XF86NavChart
+> Warning:          Could not resolve keysym XF86FishingChart
+> Warning:          Could not resolve keysym XF86SingleRangeRadar
+> Warning:          Could not resolve keysym XF86DualRangeRadar
+> Warning:          Could not resolve keysym XF86RadarOverlay
+> Warning:          Could not resolve keysym XF86TraditionalSonar
+> Warning:          Could not resolve keysym XF86ClearvuSonar
+> Warning:          Could not resolve keysym XF86SidevuSonar
+> Warning:          Could not resolve keysym XF86NavInfo
+Errors from xkbcomp are not fatal to the X server
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+> Warning:          Could not resolve keysym XF86CameraAccessEnable
+> Warning:          Could not resolve keysym XF86CameraAccessDisable
+> Warning:          Could not resolve keysym XF86CameraAccessToggle
+> Warning:          Could not resolve keysym XF86NextElement
+> Warning:          Could not resolve keysym XF86PreviousElement
+> Warning:          Could not resolve keysym XF86AutopilotEngageToggle
+> Warning:          Could not resolve keysym XF86MarkWaypoint
+> Warning:          Could not resolve keysym XF86Sos
+> Warning:          Could not resolve keysym XF86NavChart
+> Warning:          Could not resolve keysym XF86FishingChart
+> Warning:          Could not resolve keysym XF86SingleRangeRadar
+> Warning:          Could not resolve keysym XF86DualRangeRadar
+> Warning:          Could not resolve keysym XF86RadarOverlay
+> Warning:          Could not resolve keysym XF86TraditionalSonar
+> Warning:          Could not resolve keysym XF86ClearvuSonar
+> Warning:          Could not resolve keysym XF86SidevuSonar
+> Warning:          Could not resolve keysym XF86NavInfo
+Errors from xkbcomp are not fatal to the X server
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+> Warning:          Could not resolve keysym XF86CameraAccessEnable
+> Warning:          Could not resolve keysym XF86CameraAccessDisable
+> Warning:          Could not resolve keysym XF86CameraAccessToggle
+> Warning:          Could not resolve keysym XF86NextElement
+> Warning:          Could not resolve keysym XF86PreviousElement
+> Warning:          Could not resolve keysym XF86AutopilotEngageToggle
+> Warning:          Could not resolve keysym XF86MarkWaypoint
+> Warning:          Could not resolve keysym XF86Sos
+> Warning:          Could not resolve keysym XF86NavChart
+> Warning:          Could not resolve keysym XF86FishingChart
+> Warning:          Could not resolve keysym XF86SingleRangeRadar
+> Warning:          Could not resolve keysym XF86DualRangeRadar
+> Warning:          Could not resolve keysym XF86RadarOverlay
+> Warning:          Could not resolve keysym XF86TraditionalSonar
+> Warning:          Could not resolve keysym XF86ClearvuSonar
+> Warning:          Could not resolve keysym XF86SidevuSonar
+> Warning:          Could not resolve keysym XF86NavInfo
+Errors from xkbcomp are not fatal to the X server
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+> Warning:          Could not resolve keysym XF86CameraAccessEnable
+> Warning:          Could not resolve keysym XF86CameraAccessDisable
+> Warning:          Could not resolve keysym XF86CameraAccessToggle
+> Warning:          Could not resolve keysym XF86NextElement
+> Warning:          Could not resolve keysym XF86PreviousElement
+> Warning:          Could not resolve keysym XF86AutopilotEngageToggle
+> Warning:          Could not resolve keysym XF86MarkWaypoint
+> Warning:          Could not resolve keysym XF86Sos
+> Warning:          Could not resolve keysym XF86NavChart
+> Warning:          Could not resolve keysym XF86FishingChart
+> Warning:          Could not resolve keysym XF86SingleRangeRadar
+> Warning:          Could not resolve keysym XF86DualRangeRadar
+> Warning:          Could not resolve keysym XF86RadarOverlay
+> Warning:          Could not resolve keysym XF86TraditionalSonar
+> Warning:          Could not resolve keysym XF86ClearvuSonar
+> Warning:          Could not resolve keysym XF86SidevuSonar
+> Warning:          Could not resolve keysym XF86NavInfo
+Errors from xkbcomp are not fatal to the X server
+ThunarThumbnailer: Failed to retrieve supported types: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.thumbnails.Thumbnailer1 was not provided by any .service files
+
+(com.github.Aylur.ags:20452): Gjs-Console-CRITICAL **: 17:43:52.219: Error: can't assign "thunar" as icon, it is not a file nor a named icon
+set icon@resource:///com/github/Aylur/ags/widgets/icon.js:41:31
+AgsIcon@resource:///com/github/Aylur/ags/widgets/icon.js:25:1
+createCtor/<@resource:///com/github/Aylur/ags/widget.js:22:26
+AppButton@file:///home/judge/.config/ags/windows/dock/dock.js:58:35
+Taskbar/<.properties<@file:///home/judge/.config/ags/windows/dock/dock.js:117:40
+Taskbar/<.connections<@file:///home/judge/.config/ags/windows/dock/dock.js:142:42
+default/connectTo/id<@resource:///com/github/Aylur/ags/widgets/widget.js:105:65
+_onEvent@resource:///com/github/Aylur/ags/service/hyprland.js:220:26
+async*_watchSocket/<@resource:///com/github/Aylur/ags/service/hyprland.js:121:18
+_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:266:34
+  

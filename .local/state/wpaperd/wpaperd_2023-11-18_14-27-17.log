@@ -1,0 +1,5 @@
+ERROR [wpaperd] 
+   0: [91mConfiguration file "/home/judge/.config/wpaperd/wallpaper.toml" does not exists[0m
+
+Backtrace omitted. Run with RUST_BACKTRACE=1 environment variable to display it.
+Run with RUST_BACKTRACE=full to include source snippets.

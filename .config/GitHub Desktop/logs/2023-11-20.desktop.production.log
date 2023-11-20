@@ -1,0 +1,16 @@
+2023-11-20T01:05:24.163Z - info: [ui] [AppStore] loading 18 repositories from store
+2023-11-20T01:05:24.166Z - info: [ui] [AppStore] found account: rubixcube199 (Coal-Coloured Judgement Crow)
+2023-11-20T01:05:24.213Z - info: [ui] [BranchPruner] Last prune took place 10 hours ago - skipping
+2023-11-20T01:05:24.668Z - info: [ui] Subscribed 'rubixcube199' to Alive channel
+2023-11-20T01:05:24.673Z - info: [ui] launching: 3.3.3-linux2 (Linux 6.6.1-zen1-1-zen)
+2023-11-20T01:05:24.673Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-11-20T01:05:31.200Z - info: [ui] [BranchPruner] Last prune took place 10 hours ago - skipping
+2023-11-20T01:41:29.520Z - info: [ui] [AppStore] loading 18 repositories from store
+2023-11-20T01:41:29.526Z - info: [ui] [AppStore] found account: rubixcube199 (Coal-Coloured Judgement Crow)
+2023-11-20T01:41:29.576Z - info: [ui] [BranchPruner] Last prune took place 11 hours ago - skipping
+2023-11-20T01:41:30.065Z - info: [ui] Subscribed 'rubixcube199' to Alive channel
+2023-11-20T01:41:30.097Z - info: [ui] launching: 3.3.3-linux2 (Linux 6.6.1-zen1-1-zen)
+2023-11-20T01:41:30.097Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-11-20T01:41:39.867Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand upstream (took 2.136s)
+2023-11-20T01:41:49.239Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 17 repositories took 6.1s of which 0.0s paused, total 6.1s
+2023-11-20T01:41:58.165Z - info: [ui] [AppStore] adding repository at /home/judge/GitHub/hyprdotme to store
